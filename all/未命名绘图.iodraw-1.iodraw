@@ -251,7 +251,10 @@
           <mxGeometry x="-2301.25" y="90" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-44" value="是否已轮完三轮" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2221.25" y="270" width="111.25" height="80" as="geometry" />
+          <mxGeometry x="-2232.5" y="270" width="111.25" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fJt5VvOmacLmt09h5kdj-45" value="当前玩家下注" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2220" y="90" width="97.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
