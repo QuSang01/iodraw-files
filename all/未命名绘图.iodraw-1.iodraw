@@ -248,7 +248,7 @@
           <mxGeometry x="-2400" y="180" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-39" value="下注 ≤ 当前最高分" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2140" y="110" width="120" height="30" as="geometry" />
+          <mxGeometry x="-2020" y="150" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-41" value="下注 ≥ 当前最高分" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2195" y="140" width="120" height="30" as="geometry" />
@@ -269,7 +269,7 @@
           <mxGeometry x="-2230" y="380" width="97.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-52" value="轮到下一家抢地主" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2020" y="270" width="120" height="30" as="geometry" />
+          <mxGeometry x="-1960" y="270" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
