@@ -229,9 +229,6 @@
         <mxCell id="fJt5VvOmacLmt09h5kdj-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fJt5VvOmacLmt09h5kdj-31" target="fJt5VvOmacLmt09h5kdj-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fJt5VvOmacLmt09h5kdj-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fJt5VvOmacLmt09h5kdj-31" target="fJt5VvOmacLmt09h5kdj-52">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-31" value="当前玩家下注" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2230" y="80" width="97.5" height="60" as="geometry" />
         </mxCell>
