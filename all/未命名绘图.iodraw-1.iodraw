@@ -250,6 +250,9 @@
         <mxCell id="fJt5VvOmacLmt09h5kdj-42" value="下注=3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2301.25" y="90" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fJt5VvOmacLmt09h5kdj-44" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2221.25" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
