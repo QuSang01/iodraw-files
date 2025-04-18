@@ -250,11 +250,14 @@
         <mxCell id="fJt5VvOmacLmt09h5kdj-42" value="下注=3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2301.25" y="90" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fJt5VvOmacLmt09h5kdj-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fJt5VvOmacLmt09h5kdj-46" target="fJt5VvOmacLmt09h5kdj-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-46" value="是否已轮完3家" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2236.25" y="250" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-48" value="最高分 &amp;gt; 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2230" y="410" width="97.5" height="60" as="geometry" />
+          <mxGeometry x="-2230" y="380" width="97.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
