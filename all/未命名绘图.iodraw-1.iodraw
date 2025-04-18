@@ -265,6 +265,12 @@
         <mxCell id="fJt5VvOmacLmt09h5kdj-48" value="最高分 &amp;gt; 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2230" y="380" width="97.5" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fJt5VvOmacLmt09h5kdj-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1903.75" y="282.5" as="sourcePoint" />
+            <mxPoint x="-2126.25" y="107.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-52" value="轮到下一家抢地主" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1910" y="270" width="120" height="30" as="geometry" />
         </mxCell>
