@@ -226,7 +226,7 @@
         <mxCell id="fJt5VvOmacLmt09h5kdj-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fJt5VvOmacLmt09h5kdj-31" target="fJt5VvOmacLmt09h5kdj-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fJt5VvOmacLmt09h5kdj-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fJt5VvOmacLmt09h5kdj-31" target="fJt5VvOmacLmt09h5kdj-34">
+        <mxCell id="fJt5VvOmacLmt09h5kdj-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.585;exitY=0.867;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fJt5VvOmacLmt09h5kdj-31" target="fJt5VvOmacLmt09h5kdj-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-31" value="当前玩家下注" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -242,7 +242,7 @@
           <mxGeometry x="-2400" y="180" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-39" value="下注 ≤ 当前最高分" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2100" y="50" width="120" height="30" as="geometry" />
+          <mxGeometry x="-2140" y="110" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-41" value="下注 ≥ 当前最高分" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2195" y="140" width="120" height="30" as="geometry" />
