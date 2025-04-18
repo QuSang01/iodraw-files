@@ -238,10 +238,12 @@
         <mxCell id="fJt5VvOmacLmt09h5kdj-34" value="跳过记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2067" y="180" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fJt5VvOmacLmt09h5kdj-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fJt5VvOmacLmt09h5kdj-35" target="fJt5VvOmacLmt09h5kdj-68">
+        <mxCell id="fJt5VvOmacLmt09h5kdj-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2341.87" y="207.5" as="sourcePoint" />
+            <mxPoint x="-2178.12" y="612.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-2390" y="615" />
+              <mxPoint x="-2341.87" y="612.5" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -299,7 +301,7 @@
           <mxGeometry x="-2241.25" y="520" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-63" value="重新发牌" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2121.25" y="510" width="120" height="30" as="geometry" />
+          <mxGeometry x="-2047" y="395" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-66" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2280" y="388" width="40" height="30" as="geometry" />
@@ -308,7 +310,7 @@
           <mxGeometry x="-2130" y="388" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-68" value="进入出牌阶段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2346.25" y="600" width="90" height="30" as="geometry" />
+          <mxGeometry x="-2226.25" y="600" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
