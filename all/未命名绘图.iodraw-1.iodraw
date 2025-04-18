@@ -238,8 +238,8 @@
         <mxCell id="fJt5VvOmacLmt09h5kdj-35" value="直接成为地主" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2400" y="180" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fJt5VvOmacLmt09h5kdj-39" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2105" y="108" width="50" height="30" as="geometry" />
+        <mxCell id="fJt5VvOmacLmt09h5kdj-39" value="下注≤当前最高分" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2135" y="108" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
