@@ -212,16 +212,19 @@
           <mxGeometry x="-260" y="1020" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-2" value="发牌结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2300" y="20" width="90" height="30" as="geometry" />
+          <mxGeometry x="-2222.5" y="20" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-24" value="轮到下家叫分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2327.5" y="450" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-31" value="当前玩家下注" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2303.75" y="80" width="97.5" height="60" as="geometry" />
+          <mxGeometry x="-2230" y="80" width="97.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-33" value="更新最高分和玩家" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2340" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2340" y="180" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fJt5VvOmacLmt09h5kdj-34" value="更新最高分和玩家" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2180" y="180" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
