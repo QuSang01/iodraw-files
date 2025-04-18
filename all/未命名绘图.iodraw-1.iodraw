@@ -256,8 +256,8 @@
         <mxCell id="fJt5VvOmacLmt09h5kdj-19" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2300" y="250" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fJt5VvOmacLmt09h5kdj-22" value="最高分玩家成为地主" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2126" y="372.5" width="117" height="25" as="geometry" />
+        <mxCell id="fJt5VvOmacLmt09h5kdj-22" value="最高分玩家成为地主" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2126" y="366.25" width="117" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fJt5VvOmacLmt09h5kdj-24" target="fJt5VvOmacLmt09h5kdj-3">
           <mxGeometry relative="1" as="geometry">
