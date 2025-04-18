@@ -217,14 +217,20 @@
         <mxCell id="fJt5VvOmacLmt09h5kdj-24" value="轮到下家叫分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2327.5" y="450" width="125" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fJt5VvOmacLmt09h5kdj-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fJt5VvOmacLmt09h5kdj-31" target="fJt5VvOmacLmt09h5kdj-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fJt5VvOmacLmt09h5kdj-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fJt5VvOmacLmt09h5kdj-31" target="fJt5VvOmacLmt09h5kdj-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-31" value="当前玩家下注" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2230" y="80" width="97.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-33" value="更新最高分和玩家" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2252.5" y="180" width="120" height="30" as="geometry" />
+          <mxGeometry x="-2241.25" y="180" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-34" value="跳过记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2100" y="180" width="120" height="30" as="geometry" />
+          <mxGeometry x="-2067" y="180" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-35" value="直接成为地主" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2400" y="180" width="120" height="30" as="geometry" />
