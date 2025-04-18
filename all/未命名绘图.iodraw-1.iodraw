@@ -220,7 +220,7 @@
         <mxCell id="fJt5VvOmacLmt09h5kdj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fJt5VvOmacLmt09h5kdj-3" target="fJt5VvOmacLmt09h5kdj-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fJt5VvOmacLmt09h5kdj-3" value="玩家叫分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fJt5VvOmacLmt09h5kdj-3" value="当前玩家下注" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2320" y="130" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fJt5VvOmacLmt09h5kdj-4" target="fJt5VvOmacLmt09h5kdj-10">
