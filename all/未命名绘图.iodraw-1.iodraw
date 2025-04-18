@@ -239,7 +239,7 @@
           <mxGeometry x="-2327.5" y="290" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-12" value="已叫人数是否为3" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2335" y="380" width="140" height="80" as="geometry" />
+          <mxGeometry x="-2327.5" y="490" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-14" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2067" y="420" width="90" height="40" as="geometry" />
@@ -248,7 +248,7 @@
           <mxGeometry x="-2100" y="210" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-19" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2300" y="258" width="40" height="30" as="geometry" />
+          <mxGeometry x="-2300" y="250" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
