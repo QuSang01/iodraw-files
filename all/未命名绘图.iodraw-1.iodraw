@@ -253,6 +253,9 @@
         <mxCell id="fJt5VvOmacLmt09h5kdj-46" value="是否已轮完3家" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2236.25" y="250" width="110" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="fJt5VvOmacLmt09h5kdj-47" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2080" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
