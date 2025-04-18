@@ -310,17 +310,8 @@
         <mxCell id="fJt5VvOmacLmt09h5kdj-68" value="进入出牌阶段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2226.25" y="600" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fJt5VvOmacLmt09h5kdj-77" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-2047" y="790" width="340" height="340" as="geometry" />
-        </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-78" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1947" y="828" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="fJt5VvOmacLmt09h5kdj-79" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1947" y="840" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="fJt5VvOmacLmt09h5kdj-80" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1947" y="858" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
