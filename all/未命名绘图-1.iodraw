@@ -128,8 +128,11 @@
         <mxCell id="XRWK7ijMtx_i0H21MT2i-35" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="780" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XRWK7ijMtx_i0H21MT2i-36" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XRWK7ijMtx_i0H21MT2i-36" value="玩家数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="795" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XRWK7ijMtx_i0H21MT2i-37" value="游戏记录" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="795" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
