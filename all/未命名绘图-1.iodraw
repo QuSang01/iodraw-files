@@ -99,10 +99,10 @@
           <mxGeometry x="150" y="520" width="410" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XRWK7ijMtx_i0H21MT2i-22" value="游戏界面展示" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="535" width="80" height="30" as="geometry" />
+          <mxGeometry x="210" y="535" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XRWK7ijMtx_i0H21MT2i-23" value="游戏结果展示" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="535" width="90" height="30" as="geometry" />
+          <mxGeometry x="410" y="535" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
