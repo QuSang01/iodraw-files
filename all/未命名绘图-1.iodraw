@@ -119,6 +119,9 @@
         <mxCell id="XRWK7ijMtx_i0H21MT2i-30" value="房间匹配管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="675" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="XRWK7ijMtx_i0H21MT2i-31" value="实时状态同步" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="675" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
