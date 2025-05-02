@@ -176,8 +176,8 @@
             <mxPoint x="320" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XRWK7ijMtx_i0H21MT2i-50" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="900" width="60" height="30" as="geometry" />
+        <mxCell id="XRWK7ijMtx_i0H21MT2i-50" value="请求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="910" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XRWK7ijMtx_i0H21MT2i-51" value="JSON" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="910" width="60" height="30" as="geometry" />
