@@ -478,6 +478,9 @@
         <mxCell id="w6ICdHIX8_h8335exVXV-145" value="游戏准备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1700" y="1197.5" width="70" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="w6ICdHIX8_h8335exVXV-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w6ICdHIX8_h8335exVXV-146" target="w6ICdHIX8_h8335exVXV-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="w6ICdHIX8_h8335exVXV-146" value="发牌" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1820" y="1197.5" width="70" height="35" as="geometry" />
         </mxCell>
@@ -534,6 +537,9 @@
         </mxCell>
         <mxCell id="w6ICdHIX8_h8335exVXV-154" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
           <mxGeometry x="1579" y="1432.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w6ICdHIX8_h8335exVXV-169" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="1170" width="410" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
