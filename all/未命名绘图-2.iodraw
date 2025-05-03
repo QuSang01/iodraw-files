@@ -442,7 +442,13 @@
         <mxCell id="w6ICdHIX8_h8335exVXV-136" value="开始游戏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1730" y="997.5" width="70" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="w6ICdHIX8_h8335exVXV-139" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="w6ICdHIX8_h8335exVXV-118">
+        <mxCell id="w6ICdHIX8_h8335exVXV-139" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="w6ICdHIX8_h8335exVXV-117" target="w6ICdHIX8_h8335exVXV-118">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1650" y="990" as="sourcePoint" />
+            <mxPoint x="1700" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w6ICdHIX8_h8335exVXV-140" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="w6ICdHIX8_h8335exVXV-119">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1650" y="990" as="sourcePoint" />
             <mxPoint x="1700" y="940" as="targetPoint" />
