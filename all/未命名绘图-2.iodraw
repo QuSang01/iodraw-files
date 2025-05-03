@@ -461,7 +461,10 @@
           <mxGeometry x="1450" y="1197.5" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="w6ICdHIX8_h8335exVXV-144" value="创建/加入房间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1584" y="1197.5" width="70" height="35" as="geometry" />
+          <mxGeometry x="1584" y="1197.5" width="86" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="w6ICdHIX8_h8335exVXV-145" value="玩家登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="1195" width="70" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
