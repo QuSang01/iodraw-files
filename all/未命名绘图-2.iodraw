@@ -188,8 +188,8 @@
         <mxCell id="w6ICdHIX8_h8335exVXV-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="610" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w6ICdHIX8_h8335exVXV-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="800" y="420" width="510" height="510" as="geometry" />
+        <mxCell id="w6ICdHIX8_h8335exVXV-5" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="615" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
