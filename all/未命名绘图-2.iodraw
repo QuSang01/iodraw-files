@@ -413,7 +413,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="w6ICdHIX8_h8335exVXV-124" value="加入已有房间" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w6ICdHIX8_h8335exVXV-123">
+        <mxCell id="w6ICdHIX8_h8335exVXV-124" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w6ICdHIX8_h8335exVXV-123">
           <mxGeometry x="0.1415" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
