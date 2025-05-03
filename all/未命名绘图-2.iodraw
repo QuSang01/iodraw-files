@@ -466,14 +466,20 @@
         <mxCell id="w6ICdHIX8_h8335exVXV-143" value="玩家登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1450" y="1197.5" width="70" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="w6ICdHIX8_h8335exVXV-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w6ICdHIX8_h8335exVXV-144" target="w6ICdHIX8_h8335exVXV-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="w6ICdHIX8_h8335exVXV-144" value="创建/加入房间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1568" y="1197.5" width="86" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="w6ICdHIX8_h8335exVXV-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w6ICdHIX8_h8335exVXV-145" target="w6ICdHIX8_h8335exVXV-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="w6ICdHIX8_h8335exVXV-145" value="游戏准备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1700" y="1195" width="70" height="35" as="geometry" />
+          <mxGeometry x="1700" y="1197.5" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="w6ICdHIX8_h8335exVXV-146" value="发牌" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1820" y="1195" width="70" height="35" as="geometry" />
+          <mxGeometry x="1820" y="1197.5" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="w6ICdHIX8_h8335exVXV-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w6ICdHIX8_h8335exVXV-147" target="w6ICdHIX8_h8335exVXV-148">
           <mxGeometry relative="1" as="geometry" />
