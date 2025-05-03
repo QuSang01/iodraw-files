@@ -185,6 +185,9 @@
         <mxCell id="XRWK7ijMtx_i0H21MT2i-52" value="web socket" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="318.25" y="930" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="w6ICdHIX8_h8335exVXV-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="530" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
