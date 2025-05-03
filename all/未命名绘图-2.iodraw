@@ -265,7 +265,13 @@
         <mxCell id="w6ICdHIX8_h8335exVXV-31" value="Server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="w6ICdHIX8_h8335exVXV-26">
           <mxGeometry y="245" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w6ICdHIX8_h8335exVXV-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="w6ICdHIX8_h8335exVXV-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="w6ICdHIX8_h8335exVXV-7" target="w6ICdHIX8_h8335exVXV-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="960" y="690" as="sourcePoint" />
+            <mxPoint x="1010" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w6ICdHIX8_h8335exVXV-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="w6ICdHIX8_h8335exVXV-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="960" y="690" as="sourcePoint" />
             <mxPoint x="1010" y="640" as="targetPoint" />
