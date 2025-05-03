@@ -622,11 +622,16 @@
         <mxCell id="w6ICdHIX8_h8335exVXV-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w6ICdHIX8_h8335exVXV-199" target="w6ICdHIX8_h8335exVXV-204">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="w6ICdHIX8_h8335exVXV-207" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w6ICdHIX8_h8335exVXV-206">
+          <mxGeometry x="-0.0118" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="w6ICdHIX8_h8335exVXV-199" value="是否使用技能" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1415" y="1655" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="w6ICdHIX8_h8335exVXV-204" value="技能处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1428" y="1747.5" width="86" height="35" as="geometry" />
+          <mxGeometry x="1427" y="1747.5" width="86" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
