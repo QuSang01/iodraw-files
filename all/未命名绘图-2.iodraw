@@ -401,22 +401,8 @@
         <mxCell id="w6ICdHIX8_h8335exVXV-119" value="选择房间？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1574" y="987.5" width="80" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="w6ICdHIX8_h8335exVXV-121" value="加入房间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1590" y="925" width="70" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="w6ICdHIX8_h8335exVXV-123" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w6ICdHIX8_h8335exVXV-119" target="w6ICdHIX8_h8335exVXV-121">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1650" y="990" as="sourcePoint" />
-            <mxPoint x="1730" y="970" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1660" y="958" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="w6ICdHIX8_h8335exVXV-124" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w6ICdHIX8_h8335exVXV-123">
-          <mxGeometry x="0.1415" relative="1" as="geometry">
-            <mxPoint x="-10" y="11" as="offset" />
-          </mxGeometry>
+        <mxCell id="w6ICdHIX8_h8335exVXV-121" value="加入房间" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="940" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="w6ICdHIX8_h8335exVXV-125" value="创建房间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1680" y="1070" width="70" height="35" as="geometry" />
