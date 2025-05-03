@@ -538,8 +538,8 @@
         <mxCell id="w6ICdHIX8_h8335exVXV-154" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
           <mxGeometry x="1579" y="1432.5" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w6ICdHIX8_h8335exVXV-170" value="联网模式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1335" y="1148" width="70" height="30" as="geometry" />
+        <mxCell id="w6ICdHIX8_h8335exVXV-170" value="联网模式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="1160" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
