@@ -290,7 +290,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w6ICdHIX8_h8335exVXV-36" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="365" width="200" height="200" as="geometry" />
+          <mxGeometry x="630" y="365" width="580" height="545" as="geometry" />
+        </mxCell>
+        <mxCell id="w6ICdHIX8_h8335exVXV-37" value="联网模式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="635" y="388" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
