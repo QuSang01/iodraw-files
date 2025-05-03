@@ -619,8 +619,8 @@
         <mxCell id="w6ICdHIX8_h8335exVXV-196" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
           <mxGeometry x="1740" y="1822.5" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w6ICdHIX8_h8335exVXV-197" value="单机模式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1344" y="1540" width="90" height="30" as="geometry" />
+        <mxCell id="w6ICdHIX8_h8335exVXV-197" value="单机模式（包含道具/技能模式）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1254" y="1540" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w6ICdHIX8_h8335exVXV-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w6ICdHIX8_h8335exVXV-199" target="w6ICdHIX8_h8335exVXV-204">
           <mxGeometry relative="1" as="geometry" />
