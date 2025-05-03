@@ -490,14 +490,16 @@
         <mxCell id="w6ICdHIX8_h8335exVXV-151" value="是否结束" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1445" y="1350" width="80" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="w6ICdHIX8_h8335exVXV-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w6ICdHIX8_h8335exVXV-153" target="w6ICdHIX8_h8335exVXV-154">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1570" y="1447.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="w6ICdHIX8_h8335exVXV-153" value="结算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1450" y="1430" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="w6ICdHIX8_h8335exVXV-154" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
           <mxGeometry x="1579" y="1432.5" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="w6ICdHIX8_h8335exVXV-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.267;entryY=0.467;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="w6ICdHIX8_h8335exVXV-153" target="w6ICdHIX8_h8335exVXV-154">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
