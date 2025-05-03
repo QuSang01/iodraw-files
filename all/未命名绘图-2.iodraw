@@ -401,8 +401,8 @@
         <mxCell id="w6ICdHIX8_h8335exVXV-119" value="选择房间方式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1620" y="987.5" width="80" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="w6ICdHIX8_h8335exVXV-120" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1745" y="938" width="120" height="60" as="geometry" />
+        <mxCell id="w6ICdHIX8_h8335exVXV-121" value="玩家登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="1007.5" width="70" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
