@@ -640,9 +640,6 @@
         <mxCell id="w6ICdHIX8_h8335exVXV-204" value="技能处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1288" y="1662.5" width="86" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="w6ICdHIX8_h8335exVXV-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="w6ICdHIX8_h8335exVXV-188" target="w6ICdHIX8_h8335exVXV-188">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
