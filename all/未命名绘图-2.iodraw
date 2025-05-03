@@ -619,11 +619,14 @@
         <mxCell id="w6ICdHIX8_h8335exVXV-197" value="单机模式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1344" y="1540" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="w6ICdHIX8_h8335exVXV-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w6ICdHIX8_h8335exVXV-199" target="w6ICdHIX8_h8335exVXV-204">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="w6ICdHIX8_h8335exVXV-199" value="是否使用技能" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1415" y="1655" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="w6ICdHIX8_h8335exVXV-204" value="技能处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="1747.5" width="86" height="35" as="geometry" />
+          <mxGeometry x="1428" y="1747.5" width="86" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
