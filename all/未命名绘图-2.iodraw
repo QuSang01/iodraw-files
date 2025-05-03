@@ -454,8 +454,14 @@
             <mxPoint x="1700" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="w6ICdHIX8_h8335exVXV-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w6ICdHIX8_h8335exVXV-141" target="w6ICdHIX8_h8335exVXV-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="w6ICdHIX8_h8335exVXV-141" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
           <mxGeometry x="1380" y="1200" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w6ICdHIX8_h8335exVXV-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w6ICdHIX8_h8335exVXV-143" target="w6ICdHIX8_h8335exVXV-144">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w6ICdHIX8_h8335exVXV-143" value="玩家登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1450" y="1197.5" width="70" height="35" as="geometry" />
@@ -487,8 +493,11 @@
         <mxCell id="w6ICdHIX8_h8335exVXV-149" value="玩家操作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1576" y="1282.5" width="70" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="w6ICdHIX8_h8335exVXV-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w6ICdHIX8_h8335exVXV-150" target="w6ICdHIX8_h8335exVXV-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="w6ICdHIX8_h8335exVXV-150" value="出牌处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="1280" width="70" height="35" as="geometry" />
+          <mxGeometry x="1450" y="1282.5" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="w6ICdHIX8_h8335exVXV-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="w6ICdHIX8_h8335exVXV-151" target="w6ICdHIX8_h8335exVXV-147">
           <mxGeometry relative="1" as="geometry" />
