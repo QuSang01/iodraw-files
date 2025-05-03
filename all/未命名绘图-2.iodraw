@@ -305,7 +305,7 @@
           <mxGeometry x="150" y="467.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w6ICdHIX8_h8335exVXV-42" value="" style="swimlane;startSize=0;" vertex="1" parent="w6ICdHIX8_h8335exVXV-38">
-          <mxGeometry x="150" y="57.5" width="150" height="445" as="geometry">
+          <mxGeometry x="150" y="50" width="150" height="445" as="geometry">
             <mxRectangle x="800" y="430" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
