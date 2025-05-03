@@ -401,7 +401,7 @@
         <mxCell id="w6ICdHIX8_h8335exVXV-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="w6ICdHIX8_h8335exVXV-119" target="w6ICdHIX8_h8335exVXV-121">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w6ICdHIX8_h8335exVXV-131" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w6ICdHIX8_h8335exVXV-130">
+        <mxCell id="w6ICdHIX8_h8335exVXV-131" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w6ICdHIX8_h8335exVXV-130">
           <mxGeometry x="-0.2706" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -421,13 +421,7 @@
             <mxPoint x="1700" y="940" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1614" y="1090" />
-              <mxPoint x="1660" y="1088" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="w6ICdHIX8_h8335exVXV-127" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w6ICdHIX8_h8335exVXV-126">
-          <mxGeometry x="0.1568" y="-2" relative="1" as="geometry">
-            <mxPoint x="6" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="w6ICdHIX8_h8335exVXV-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="w6ICdHIX8_h8335exVXV-125" target="w6ICdHIX8_h8335exVXV-125">
