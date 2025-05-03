@@ -302,7 +302,7 @@
           <mxGeometry y="25" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w6ICdHIX8_h8335exVXV-42" value="" style="swimlane;startSize=0;" vertex="1" parent="w6ICdHIX8_h8335exVXV-38">
-          <mxGeometry x="240" y="25" width="150" height="490" as="geometry">
+          <mxGeometry x="230" y="85" width="150" height="375" as="geometry">
             <mxRectangle x="800" y="430" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -316,7 +316,7 @@
           <mxGeometry x="38.5" y="237" width="73" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w6ICdHIX8_h8335exVXV-40" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Client&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="w6ICdHIX8_h8335exVXV-42">
-          <mxGeometry y="460" width="60" height="30" as="geometry" />
+          <mxGeometry y="345" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w6ICdHIX8_h8335exVXV-94" value="使用道具/技能" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="w6ICdHIX8_h8335exVXV-42">
           <mxGeometry x="29.25" y="165" width="91.5" height="30" as="geometry" />
