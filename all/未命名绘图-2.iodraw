@@ -478,7 +478,7 @@
         <mxCell id="w6ICdHIX8_h8335exVXV-149" value="玩家操作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1584" y="1282.5" width="70" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="w6ICdHIX8_h8335exVXV-150" value="玩家登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w6ICdHIX8_h8335exVXV-150" value="出牌处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1460" y="1280" width="70" height="35" as="geometry" />
         </mxCell>
       </root>
