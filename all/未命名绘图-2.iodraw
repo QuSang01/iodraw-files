@@ -457,6 +457,12 @@
         <mxCell id="w6ICdHIX8_h8335exVXV-141" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
           <mxGeometry x="1380" y="1200" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="w6ICdHIX8_h8335exVXV-143" value="玩家登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="1197.5" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="w6ICdHIX8_h8335exVXV-144" value="玩家登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="1207.5" width="70" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
