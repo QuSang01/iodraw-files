@@ -719,7 +719,7 @@
           <mxGeometry x="420" y="1531.25" width="120" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-27" value="判断当前玩家角色" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="254" y="1472.5" width="106" height="37.5" as="geometry" />
+          <mxGeometry x="427" y="1622.5" width="106" height="37.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
