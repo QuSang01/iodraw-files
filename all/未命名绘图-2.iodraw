@@ -707,7 +707,7 @@
           <mxGeometry x="110" y="1625" width="120" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-22" value="主动出牌" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="267" y="1547.5" width="80" height="40" as="geometry" />
+          <mxGeometry x="120" y="1705" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
