@@ -786,8 +786,8 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-43" value="出顺子" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="1800" width="70" height="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-46" value="判断当前玩家角色" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="254" y="1472.5" width="106" height="37.5" as="geometry" />
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-46" value="直接出牌" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1716" width="60" height="37.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
