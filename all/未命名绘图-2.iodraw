@@ -722,15 +722,10 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-20" value="检查是否为单一牌型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="1625" width="120" height="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="BgOrAZEb03_k2tu5TxS3-46">
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="BgOrAZEb03_k2tu5TxS3-46">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="159" y="1720" as="sourcePoint" />
             <mxPoint x="280" y="1670" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="159" y="1740" />
-              <mxPoint x="230" y="1740" />
-              <mxPoint x="230" y="1724" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-39" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BgOrAZEb03_k2tu5TxS3-38">
@@ -822,7 +817,7 @@
           <mxGeometry x="135" y="1890" width="70" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-46" value="直接出牌" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1705" width="60" height="37.5" as="geometry" />
+          <mxGeometry x="300" y="1692.5" width="60" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-48" value="放弃出牌" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="419" y="1730" width="70" height="37.5" as="geometry" />
