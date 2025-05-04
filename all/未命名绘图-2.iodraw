@@ -700,8 +700,8 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-18" value="主动出牌" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="257" y="1537.5" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-20" value="判断当前玩家角色" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="254" y="1472.5" width="106" height="37.5" as="geometry" />
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-20" value="检查是否为单一牌型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1617.5" width="106" height="37.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
