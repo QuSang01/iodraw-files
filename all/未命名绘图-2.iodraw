@@ -692,7 +692,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-17" value="判断当前玩家角色" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1452.5" width="106" height="40" as="geometry" />
+          <mxGeometry x="244" y="1462.5" width="106" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-18" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1530" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
