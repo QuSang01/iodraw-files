@@ -825,6 +825,9 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-59" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="770" y="1820" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-60" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="847" y="1740" width="163" height="290" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
