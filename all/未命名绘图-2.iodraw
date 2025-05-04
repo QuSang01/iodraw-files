@@ -789,7 +789,7 @@
           <mxGeometry x="540" y="1640" width="106" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-37" value="选择最小的单张/对子" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="278.5" y="1800" width="130" height="37.5" as="geometry" />
+          <mxGeometry x="270" y="1798.75" width="130" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-40" target="BgOrAZEb03_k2tu5TxS3-43">
           <mxGeometry relative="1" as="geometry" />
@@ -799,8 +799,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-40" target="BgOrAZEb03_k2tu5TxS3-37">
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-40" target="BgOrAZEb03_k2tu5TxS3-37">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-55" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BgOrAZEb03_k2tu5TxS3-54">
+          <mxGeometry x="-0.1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-40" value="是否是顺子" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="1797.5" width="80" height="40" as="geometry" />
