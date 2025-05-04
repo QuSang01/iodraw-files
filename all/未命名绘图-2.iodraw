@@ -706,7 +706,7 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-20" value="检查是否为单一牌型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="1625" width="120" height="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-22" value="主动出牌" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-22" value="是单一牌型" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="1705" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
