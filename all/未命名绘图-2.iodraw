@@ -663,8 +663,8 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-5" value="牌型识别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="BgOrAZEb03_k2tu5TxS3-3">
           <mxGeometry x="53.5" y="30" width="73" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-6" value="牌型识别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="783.5" y="1082.5" width="73" height="30" as="geometry" />
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-6" value="策略生成" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="BgOrAZEb03_k2tu5TxS3-3">
+          <mxGeometry x="53.5" y="96.5" width="73" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
