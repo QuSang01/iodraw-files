@@ -657,6 +657,9 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-2" value="电脑玩家" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="1310" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-3" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1075" width="200" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
