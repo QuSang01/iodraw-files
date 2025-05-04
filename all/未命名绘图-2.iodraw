@@ -704,7 +704,10 @@
           <mxGeometry x="257" y="1537.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-20" value="检查是否为单一牌型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1622.5" width="120" height="37.5" as="geometry" />
+          <mxGeometry x="110" y="1625" width="120" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-22" value="主动出牌" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="267" y="1547.5" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
