@@ -691,7 +691,7 @@
             <mxPoint x="640" y="1140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-17" value="判断当前玩家角色" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1452.5" width="106" height="40" as="geometry" />
         </mxCell>
       </root>
