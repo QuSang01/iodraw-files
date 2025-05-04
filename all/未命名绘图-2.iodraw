@@ -697,11 +697,14 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-17" value="判断当前玩家角色" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="244" y="1462.5" width="106" height="37.5" as="geometry" />
         </mxCell>
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-18" target="BgOrAZEb03_k2tu5TxS3-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-18" value="主动出牌" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="257" y="1537.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-20" value="检查是否为单一牌型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1617.5" width="106" height="37.5" as="geometry" />
+          <mxGeometry x="100" y="1622.5" width="120" height="37.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
