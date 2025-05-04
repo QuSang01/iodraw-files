@@ -724,7 +724,7 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-28" value="可压制？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="1640" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-30" value="判断当前玩家角色" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-30" value="保留高价值牌型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="1590" width="106" height="37.5" as="geometry" />
         </mxCell>
       </root>
