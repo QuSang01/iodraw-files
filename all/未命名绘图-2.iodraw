@@ -730,6 +730,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-22" target="BgOrAZEb03_k2tu5TxS3-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-42" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BgOrAZEb03_k2tu5TxS3-41">
+          <mxGeometry x="-0.0783" y="1" relative="1" as="geometry">
+            <mxPoint x="1" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-22" value="是单一牌型？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="117.5" y="1705" width="105" height="45" as="geometry" />
         </mxCell>
@@ -765,7 +773,7 @@
           <mxGeometry x="123.75" y="1800" width="92.5" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-40" value="是否是顺子" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1705" width="80" height="40" as="geometry" />
+          <mxGeometry x="280" y="1707.5" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
