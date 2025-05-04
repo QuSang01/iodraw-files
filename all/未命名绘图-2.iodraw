@@ -829,10 +829,10 @@
           <mxGeometry x="850" y="1710" width="183" height="290" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-62" value="设置玩家分数" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="BgOrAZEb03_k2tu5TxS3-60">
-          <mxGeometry x="44" y="60" width="95" height="30" as="geometry" />
+          <mxGeometry x="50" y="60" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-63" value="分数面板模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" vertex="1" parent="BgOrAZEb03_k2tu5TxS3-60">
-          <mxGeometry x="43" width="140" height="40" as="geometry" />
+          <mxGeometry x="21.5" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
