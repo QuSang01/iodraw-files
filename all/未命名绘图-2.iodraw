@@ -914,7 +914,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.43;entryY=0.057;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-76" target="BgOrAZEb03_k2tu5TxS3-78">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1637" y="2050" />
+              <mxPoint x="1639" y="2050" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-76" value="玩家是否是地主" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1579" y="1980" width="116" height="50" as="geometry" />
@@ -923,7 +928,7 @@
           <mxGeometry x="1423" y="2080" width="114" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-78" value="地主得分翻倍" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1590" y="2080" width="114" height="35" as="geometry" />
+          <mxGeometry x="1585" y="2080" width="99" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-79" value="农民扣除当前分数" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1596" y="2140" width="124" height="35" as="geometry" />
