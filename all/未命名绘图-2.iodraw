@@ -1033,7 +1033,10 @@
           <mxGeometry x="1402.5" y="2530" width="89" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-131" value="清空玩家手牌显示" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1535" y="2530" width="89" height="35" as="geometry" />
+          <mxGeometry x="1535" y="2530" width="115" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-132" value="清空玩家手牌" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="2530" width="89" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
