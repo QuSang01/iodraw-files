@@ -1171,7 +1171,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-178" value="接受RSA公钥、发送AES密钥" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1444.25" y="3210" width="127.5" height="35" as="geometry" />
+          <mxGeometry x="1410" y="3210" width="201.75" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.469;entryY=-0.057;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-171" target="BgOrAZEb03_k2tu5TxS3-178">
           <mxGeometry relative="1" as="geometry" />
@@ -1183,9 +1183,6 @@
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-182" value="服务器接受密钥" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1444.25" y="3280" width="127.5" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.508;entryY=-0.086;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-178" target="BgOrAZEb03_k2tu5TxS3-182">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
