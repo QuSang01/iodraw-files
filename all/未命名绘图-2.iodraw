@@ -999,6 +999,9 @@
             <mxPoint x="-4" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-119" target="BgOrAZEb03_k2tu5TxS3-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-119" value="清空玩家手牌" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1700.5" y="2390" width="89" height="35" as="geometry" />
         </mxCell>
@@ -1012,7 +1015,7 @@
           <mxGeometry x="1402.5" y="2460" width="89" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-124" value="切换状态为发牌状态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="2460" width="89" height="35" as="geometry" />
+          <mxGeometry x="1216" y="2460" width="139" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
