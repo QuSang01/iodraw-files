@@ -1051,7 +1051,10 @@
           <mxGeometry x="1684" y="2530" width="89" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-137" value="用户打开房间界面" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1199" y="2710" width="89" height="35" as="geometry" />
+          <mxGeometry x="1179" y="2710" width="121" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-138" value="是否是网络模式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1362" y="2702.5" width="116" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
