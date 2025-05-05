@@ -874,7 +874,7 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-73" value="牌型是否为炸弹" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1454" y="1962.5" width="116" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-74" value="玩家出牌" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-74" value="当前倍数*2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1470" y="2040" width="76" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-75" value="玩家手牌是否为空" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
