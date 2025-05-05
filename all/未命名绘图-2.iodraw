@@ -1050,8 +1050,8 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-132" value="重置倍数" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1684" y="2530" width="89" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-137" value="触发游戏重置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1251" y="2400" width="89" height="35" as="geometry" />
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-137" value="用户打开房间界面" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1199" y="2710" width="89" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
