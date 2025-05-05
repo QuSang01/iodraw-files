@@ -1035,14 +1035,20 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-129" value="重置叫地主记录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1231" y="2530" width="109" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-130" target="BgOrAZEb03_k2tu5TxS3-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-130" value="更新界面显示" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1402.5" y="2530" width="89" height="35" as="geometry" />
+          <mxGeometry x="1389" y="2530" width="89" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-131" target="BgOrAZEb03_k2tu5TxS3-132">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-131" value="清空玩家手牌显示" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1535" y="2530" width="115" height="35" as="geometry" />
+          <mxGeometry x="1525" y="2530" width="115" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-132" value="重置倍数" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="2530" width="89" height="35" as="geometry" />
+          <mxGeometry x="1684" y="2530" width="89" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
