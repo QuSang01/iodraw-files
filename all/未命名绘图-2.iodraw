@@ -880,6 +880,9 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-75" value="玩家手牌是否为空" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1654" y="1962.5" width="130" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-76" value="牌型是否为炸弹" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1474" y="1982.5" width="116" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
