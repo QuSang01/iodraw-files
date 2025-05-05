@@ -885,6 +885,11 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-73" target="BgOrAZEb03_k2tu5TxS3-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-87" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BgOrAZEb03_k2tu5TxS3-85">
+          <mxGeometry x="-0.1081" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-73" value="牌型是否为炸弹" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1254" y="1980" width="116" height="50" as="geometry" />
         </mxCell>
@@ -898,7 +903,7 @@
           <mxGeometry x="1701" y="1980" width="116" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-77" value="切换至下家玩家" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1487" y="2140" width="114" height="35" as="geometry" />
+          <mxGeometry x="1410" y="2100" width="114" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-78" value="地主得分翻倍" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1698" y="2060" width="114" height="35" as="geometry" />
