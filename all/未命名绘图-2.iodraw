@@ -884,7 +884,10 @@
           <mxGeometry x="1689" y="1980" width="116" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-77" value="切换至下家玩家" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1479" y="2140" width="114" height="35" as="geometry" />
+          <mxGeometry x="1487" y="2140" width="114" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-78" value="切换至下家玩家" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1497" y="2150" width="114" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
