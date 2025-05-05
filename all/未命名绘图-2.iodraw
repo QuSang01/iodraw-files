@@ -1063,7 +1063,7 @@
           <mxGeometry x="1548.5" y="2710" width="121" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-141" value="用户打开房间界面" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1199" y="2730" width="121" height="35" as="geometry" />
+          <mxGeometry x="1362" y="2780" width="121" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
