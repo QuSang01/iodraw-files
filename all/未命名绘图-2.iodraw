@@ -877,6 +877,14 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-73" target="BgOrAZEb03_k2tu5TxS3-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-86" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BgOrAZEb03_k2tu5TxS3-84">
+          <mxGeometry x="-0.36" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-73" target="BgOrAZEb03_k2tu5TxS3-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-73" value="牌型是否为炸弹" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1254" y="1980" width="116" height="50" as="geometry" />
         </mxCell>
@@ -884,7 +892,7 @@
           <mxGeometry x="1274" y="2080" width="76" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-75" value="玩家手牌是否为空" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1479" y="1980" width="130" height="50" as="geometry" />
+          <mxGeometry x="1444" y="1980" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-76" value="玩家是否是地主" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1701" y="1980" width="116" height="50" as="geometry" />
