@@ -1182,7 +1182,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-182" value="服务器接受密钥" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1431.25" y="3280" width="127.5" height="35" as="geometry" />
+          <mxGeometry x="1447.13" y="3280" width="127.5" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
