@@ -1165,7 +1165,7 @@
           <mxGeometry x="1458" y="3122.5" width="116" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-173" value="连接失败，退出" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1619.5" y="3130" width="111" height="35" as="geometry" />
+          <mxGeometry x="1619" y="3130" width="111" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
