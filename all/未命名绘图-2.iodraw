@@ -1144,16 +1144,11 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-165" value="关闭对话框，进入房间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1260" y="2950" width="149" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.027;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-166" target="BgOrAZEb03_k2tu5TxS3-167">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1320" y="3147.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-166" value="玩家选择网络模式" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1140" y="3130" width="121" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-167" value="连接服务器" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1312" y="3120" width="111" height="35" as="geometry" />
+          <mxGeometry x="1312" y="3130" width="111" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
