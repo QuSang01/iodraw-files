@@ -1144,6 +1144,9 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-165" value="关闭对话框，进入房间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1260" y="2950" width="149" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-166" value="玩家无法加入房间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="2880" width="121" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
