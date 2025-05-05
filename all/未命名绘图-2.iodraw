@@ -897,19 +897,19 @@
           <mxGeometry x="1274" y="2080" width="76" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-75" value="玩家手牌是否为空" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1444" y="1980" width="130" height="50" as="geometry" />
+          <mxGeometry x="1415" y="1980" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-76" value="玩家是否是地主" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1701" y="1980" width="116" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-77" value="切换至下家玩家" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="2100" width="114" height="35" as="geometry" />
+          <mxGeometry x="1418" y="2080" width="114" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-78" value="地主得分翻倍" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1698" y="2060" width="114" height="35" as="geometry" />
+          <mxGeometry x="1596" y="2050" width="114" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-79" value="农民扣除当前分数" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1698" y="2120" width="122" height="35" as="geometry" />
+          <mxGeometry x="1596" y="2120" width="122" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-80" value="地主扣分翻倍" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1900" y="2060" width="114" height="35" as="geometry" />
