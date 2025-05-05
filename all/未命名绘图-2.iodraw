@@ -1108,9 +1108,9 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-153" target="BgOrAZEb03_k2tu5TxS3-155">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-157" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BgOrAZEb03_k2tu5TxS3-156">
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-157" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BgOrAZEb03_k2tu5TxS3-156">
           <mxGeometry x="-0.2083" y="5" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-4" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-153" value="房间存在？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
