@@ -1219,6 +1219,12 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-207" value="发送加密消息到服务器" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1340" y="3410" width="145" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.014;entryY=0.514;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-205" target="BgOrAZEb03_k2tu5TxS3-207">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-211" value="游戏进行中" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1211" y="3370" width="121" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
