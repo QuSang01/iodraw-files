@@ -938,7 +938,7 @@
           <mxGeometry x="1755" y="2080" width="114" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-81" value="农民得分" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1755" y="2150" width="112" height="35" as="geometry" />
+          <mxGeometry x="1756" y="2155" width="112" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-82" value="标记玩家胜利状态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1786.5" y="2210" width="137" height="35" as="geometry" />
