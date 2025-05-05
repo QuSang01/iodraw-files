@@ -1170,8 +1170,8 @@
             <mxPoint y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-178" value="连接失败，退出" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1452.5" y="3220" width="111" height="35" as="geometry" />
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-178" value="接受公钥、发送密钥" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1452.5" y="3220" width="127.5" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
