@@ -868,14 +868,20 @@
             <mxPoint x="990" y="1740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-72" target="BgOrAZEb03_k2tu5TxS3-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-72" value="玩家出牌" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1274" y="1900" width="76" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-73" target="BgOrAZEb03_k2tu5TxS3-74">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-73" value="牌型是否为炸弹" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1254" y="1980" width="116" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-74" value="当前倍数*2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1274" y="2140" width="76" height="35" as="geometry" />
+          <mxGeometry x="1274" y="2080" width="76" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-75" value="玩家手牌是否为空" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1479" y="1980" width="130" height="50" as="geometry" />
@@ -899,7 +905,7 @@
           <mxGeometry x="1901" y="2120" width="112" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-82" value="标记玩家胜利状态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1793" y="2200" width="137" height="35" as="geometry" />
+          <mxGeometry x="1786.5" y="2210" width="137" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
