@@ -1108,6 +1108,9 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-153" value="房间存在？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1463" y="2862.5" width="116" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-155" value="点击“搜索”按钮" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1294" y="2870" width="121" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
