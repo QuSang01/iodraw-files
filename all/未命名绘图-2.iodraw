@@ -1223,9 +1223,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-211" value="服务器广播操作结果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1537" y="3410" width="133" height="35" as="geometry" />
+          <mxGeometry x="1527.5" y="3410" width="133" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.015;entryY=0.457;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-207" target="BgOrAZEb03_k2tu5TxS3-211">
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.486;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-207" target="BgOrAZEb03_k2tu5TxS3-211">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1536" y="3420" as="targetPoint" />
           </mxGeometry>
