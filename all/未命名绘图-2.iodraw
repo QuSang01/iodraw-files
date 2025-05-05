@@ -1125,6 +1125,9 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-158" value="启用“加入”按钮" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1460" y="2950" width="121" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-160" value="禁用“加入”按钮" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1304" y="2880" width="121" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
