@@ -871,8 +871,8 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-72" value="玩家出牌" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1310" y="1970" width="76" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-73" value="是否使用技能" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1425" y="1665" width="110" height="50" as="geometry" />
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-73" value="牌型是否为炸弹" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1464" y="1962.5" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
