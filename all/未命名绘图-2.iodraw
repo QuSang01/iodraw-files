@@ -1026,6 +1026,9 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-124" value="切换状态为发牌状态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1216" y="2460" width="139" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-129" value="重置叫地主记录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="2530" width="89" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
