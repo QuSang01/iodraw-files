@@ -1085,10 +1085,10 @@
           <mxGeometry x="1524" y="2710" width="88" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-142" value="点击“加入”按钮" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1654" y="2710" width="121" height="35" as="geometry" />
+          <mxGeometry x="1641" y="2710" width="121" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-148" value="点击“加入”按钮" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1619" y="2790" width="121" height="35" as="geometry" />
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-148" value="发送网络请求" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1641" y="2790" width="121" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
