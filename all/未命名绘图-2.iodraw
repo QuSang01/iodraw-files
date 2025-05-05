@@ -1170,6 +1170,9 @@
             <mxPoint y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-178" target="BgOrAZEb03_k2tu5TxS3-182">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-178" value="接受RSA公钥、发送AES密钥" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1403.13" y="3210" width="201.75" height="35" as="geometry" />
         </mxCell>
