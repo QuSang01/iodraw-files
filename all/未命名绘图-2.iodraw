@@ -1008,8 +1008,11 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-122" value="设置玩家分数为0" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1536" y="2460" width="110" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-123" value="清空玩家手牌" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1730.5" y="2420" width="89" height="35" as="geometry" />
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-123" value="重置游戏状态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1402.5" y="2460" width="89" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-124" value="清空玩家手牌" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1740.5" y="2430" width="89" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
