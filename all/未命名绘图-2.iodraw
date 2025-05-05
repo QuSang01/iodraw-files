@@ -1147,6 +1147,9 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-166" value="玩家选择网络模式" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1140" y="3130" width="121" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-172" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-167" target="BgOrAZEb03_k2tu5TxS3-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-167" value="连接服务器" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1300" y="3130" width="111" height="35" as="geometry" />
         </mxCell>
@@ -1154,7 +1157,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-171" value="连接成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1471.5" y="3122.5" width="116" height="50" as="geometry" />
+          <mxGeometry x="1458" y="3122.5" width="116" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
