@@ -969,13 +969,12 @@
           <mxGeometry x="1241" y="2390" width="89" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-104" target="BgOrAZEb03_k2tu5TxS3-107">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-104" target="BgOrAZEb03_k2tu5TxS3-108">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1447" y="2488" />
-              <mxPoint x="1543" y="2488" />
+              <mxPoint x="1447" y="2354" />
+              <mxPoint x="1369" y="2354" />
+              <mxPoint x="1369" y="2330" />
+              <mxPoint x="1389" y="2330" />
             </Array>
           </mxGeometry>
         </mxCell>
