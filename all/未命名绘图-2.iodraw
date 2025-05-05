@@ -1176,10 +1176,13 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.469;entryY=-0.057;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-171" target="BgOrAZEb03_k2tu5TxS3-178">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-181" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BgOrAZEb03_k2tu5TxS3-180">
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-181" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BgOrAZEb03_k2tu5TxS3-180">
           <mxGeometry x="-0.4322" y="-1" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-182" value="接受公钥、发送密钥" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1454.25" y="3220" width="127.5" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
