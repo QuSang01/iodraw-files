@@ -1277,14 +1277,11 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-223" value="自动匹配房间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2241" y="3200" width="91" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-224" target="BgOrAZEb03_k2tu5TxS3-228">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2435.5" y="3158.5" as="sourcePoint" />
-            <mxPoint x="2301.5" y="3266" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2436" y="3270" />
-              <mxPoint x="2300" y="3270" />
-              <mxPoint x="2300" y="3266" />
+              <mxPoint x="2436" y="3280" />
+              <mxPoint x="2302" y="3280" />
             </Array>
           </mxGeometry>
         </mxCell>
