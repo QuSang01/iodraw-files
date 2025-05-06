@@ -1251,6 +1251,12 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-216" value="游戏模式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2090" y="3122.5" width="92" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-226" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-218" target="BgOrAZEb03_k2tu5TxS3-224">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-218" target="BgOrAZEb03_k2tu5TxS3-223">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-218" value="房间操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2240" y="3122.5" width="92" height="50" as="geometry" />
         </mxCell>
