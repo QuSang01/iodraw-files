@@ -1397,6 +1397,9 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-267" value="密钥交换与认证" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2114.5" y="2607.5" width="121" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-270" value="连接服务器成功？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2290.31" y="2610" width="126.87" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
