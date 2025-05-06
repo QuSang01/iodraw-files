@@ -1230,8 +1230,8 @@
             <mxPoint x="1536" y="3420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-213" value="玩家选择网络模式" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="3140" width="121" height="35" as="geometry" />
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-213" value="启动游戏" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1829" y="3130" width="121" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
