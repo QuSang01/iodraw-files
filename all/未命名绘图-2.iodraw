@@ -1342,7 +1342,7 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-252" value="输入用户名/密码" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1941" y="2530" width="121" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-257" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-253" target="BgOrAZEb03_k2tu5TxS3-256">
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-257" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-253" target="BgOrAZEb03_k2tu5TxS3-256">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2270" y="2547.5" as="targetPoint" />
           </mxGeometry>
@@ -1359,7 +1359,7 @@
           <mxGeometry x="2120" y="2522.5" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-256" value="标记为无效输入" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2130" y="2440" width="121" height="35" as="geometry" />
+          <mxGeometry x="2119" y="2440" width="121" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-259" value="加密并发送登录请求" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2102.25" y="2600" width="145.5" height="35" as="geometry" />
