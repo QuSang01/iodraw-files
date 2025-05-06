@@ -1358,8 +1358,8 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-256" value="标记为无效输入" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2269" y="2530" width="121" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-259" value="输入用户名/密码" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2114.5" y="2590" width="121" height="35" as="geometry" />
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-259" value="加密并发送登录请求" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2114.5" y="2590" width="145.5" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
