@@ -1295,13 +1295,23 @@
           <mxGeometry x="2271" y="3260" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-238" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-235" target="BgOrAZEb03_k2tu5TxS3-237">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2211" y="3328" />
+              <mxPoint x="2211" y="3290" />
+              <mxPoint x="2200" y="3290" />
+              <mxPoint x="2200" y="3310" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-235" value="游戏核心流程" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2240" y="3310" width="91" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-237" value="显示胜负结果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2240" y="3380" width="91" height="35" as="geometry" />
+          <mxGeometry x="2090" y="3310" width="91" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-240" value="游戏模式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2010" y="3375" width="92" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
