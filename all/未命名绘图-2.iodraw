@@ -1370,7 +1370,7 @@
           <mxGeometry x="2271" y="2530" width="145.5" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-262" value="连接服务器成功？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2288.75" y="2600" width="110" height="50" as="geometry" />
+          <mxGeometry x="2283.13" y="2600" width="126.87" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
