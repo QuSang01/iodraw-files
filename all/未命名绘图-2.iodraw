@@ -1409,8 +1409,8 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-272" value="显示错误信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2269" y="2682.5" width="121" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-274" value="显示错误信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2279" y="2692.5" width="121" height="35" as="geometry" />
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-274" value="加密存储" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2114.5" y="2740" width="121" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
