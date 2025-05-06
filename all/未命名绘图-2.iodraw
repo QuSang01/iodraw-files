@@ -1345,6 +1345,9 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-253" value="格式验证通过？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2120" y="2522.5" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-256" value="输入用户名/密码" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2280" y="2530" width="121" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
