@@ -1398,7 +1398,7 @@
           <mxGeometry x="2114.5" y="2607.5" width="121" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-270" value="登录成功？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2111.57" y="2680" width="78.43" height="50" as="geometry" />
+          <mxGeometry x="2120" y="2680" width="94.21" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
