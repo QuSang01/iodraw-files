@@ -1367,7 +1367,10 @@
           <mxGeometry x="2119" y="2440" width="121" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-259" value="加密并发送登录请求" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2301" y="2530" width="145.5" height="35" as="geometry" />
+          <mxGeometry x="2271" y="2530" width="145.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-262" value="格式验证通过？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="2532.5" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
