@@ -1306,11 +1306,14 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-237" value="显示胜负结果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2102" y="3310" width="91" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-244" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-240" target="BgOrAZEb03_k2tu5TxS3-243">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-240" value="继续游戏？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1970" y="3302.5" width="92" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-243" value="登录/注册" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1980" y="3140" width="80" height="35" as="geometry" />
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-243" value="重置数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1976" y="3380" width="80" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
