@@ -320,7 +320,7 @@
           <mxGeometry x="380" y="730" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mxdRoqQGDHFdoji6dl0M-9" value="游戏逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="790" width="110" height="30" as="geometry" />
+          <mxGeometry x="380" y="793" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mxdRoqQGDHFdoji6dl0M-10" value="网络通信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="850" width="110" height="30" as="geometry" />
