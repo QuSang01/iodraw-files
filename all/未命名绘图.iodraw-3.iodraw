@@ -311,7 +311,7 @@
           <mxGeometry x="-2226.25" y="600" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mxdRoqQGDHFdoji6dl0M-6" value="联网斗地主游戏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="788" width="140" height="40" as="geometry" />
+          <mxGeometry x="120" y="788" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mxdRoqQGDHFdoji6dl0M-7" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="670" width="110" height="30" as="geometry" />
@@ -346,6 +346,12 @@
               <mxPoint x="320" y="808" />
               <mxPoint x="320" y="745" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mxdRoqQGDHFdoji6dl0M-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="690" as="sourcePoint" />
+            <mxPoint x="350" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
