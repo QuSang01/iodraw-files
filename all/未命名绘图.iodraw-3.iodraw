@@ -310,41 +310,6 @@
         <mxCell id="fJt5VvOmacLmt09h5kdj-68" value="进入出牌阶段" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2226.25" y="600" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mxdRoqQGDHFdoji6dl0M-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mxdRoqQGDHFdoji6dl0M-6" target="mxdRoqQGDHFdoji6dl0M-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="515" y="820" />
-              <mxPoint x="245" y="820" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mxdRoqQGDHFdoji6dl0M-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mxdRoqQGDHFdoji6dl0M-6" target="mxdRoqQGDHFdoji6dl0M-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="515" y="820" />
-              <mxPoint x="80" y="820" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mxdRoqQGDHFdoji6dl0M-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mxdRoqQGDHFdoji6dl0M-6" target="mxdRoqQGDHFdoji6dl0M-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="515" y="820" />
-              <mxPoint x="930" y="820" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mxdRoqQGDHFdoji6dl0M-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mxdRoqQGDHFdoji6dl0M-6" target="mxdRoqQGDHFdoji6dl0M-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mxdRoqQGDHFdoji6dl0M-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mxdRoqQGDHFdoji6dl0M-6" target="mxdRoqQGDHFdoji6dl0M-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="515" y="820" />
-              <mxPoint x="750" y="820" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mxdRoqQGDHFdoji6dl0M-6" value="联网斗地主游戏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="750" width="140" height="40" as="geometry" />
         </mxCell>
