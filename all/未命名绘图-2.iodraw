@@ -1571,7 +1571,11 @@
           <mxGeometry x="2336" y="1307.5" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-321" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-322" target="BgOrAZEb03_k2tu5TxS3-327">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2255" y="1410" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-322" value="出牌处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2220" y="1307.5" width="70" height="35" as="geometry" />
@@ -1606,8 +1610,8 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-330" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
           <mxGeometry x="2506" y="1467.5" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-331" value="单机模式（包含道具/技能模式）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="2020" y="1185" width="270" height="30" as="geometry" />
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-331" value="单机模式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="1185" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
