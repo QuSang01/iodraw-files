@@ -313,24 +313,24 @@
         <mxCell id="mxdRoqQGDHFdoji6dl0M-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mxdRoqQGDHFdoji6dl0M-6" target="mxdRoqQGDHFdoji6dl0M-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-45" y="160" />
-              <mxPoint x="-315" y="160" />
+              <mxPoint x="515" y="820" />
+              <mxPoint x="245" y="820" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="mxdRoqQGDHFdoji6dl0M-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mxdRoqQGDHFdoji6dl0M-6" target="mxdRoqQGDHFdoji6dl0M-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-45" y="160" />
-              <mxPoint x="-545" y="160" />
+              <mxPoint x="515" y="820" />
+              <mxPoint x="15" y="820" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="mxdRoqQGDHFdoji6dl0M-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mxdRoqQGDHFdoji6dl0M-6" target="mxdRoqQGDHFdoji6dl0M-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-45" y="160" />
-              <mxPoint x="370" y="160" />
+              <mxPoint x="515" y="820" />
+              <mxPoint x="930" y="820" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -340,28 +340,28 @@
         <mxCell id="mxdRoqQGDHFdoji6dl0M-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mxdRoqQGDHFdoji6dl0M-6" target="mxdRoqQGDHFdoji6dl0M-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-45" y="160" />
-              <mxPoint x="190" y="160" />
+              <mxPoint x="515" y="820" />
+              <mxPoint x="750" y="820" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="mxdRoqQGDHFdoji6dl0M-6" value="联网斗地主游戏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="80" width="330" height="40" as="geometry" />
+          <mxGeometry x="-60" y="730" width="330" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mxdRoqQGDHFdoji6dl0M-7" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-630" y="210" width="170" height="30" as="geometry" />
+          <mxGeometry x="-70" y="870" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mxdRoqQGDHFdoji6dl0M-8" value="房间管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-400" y="210" width="170" height="30" as="geometry" />
+          <mxGeometry x="160" y="870" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mxdRoqQGDHFdoji6dl0M-9" value="游戏逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="210" width="170" height="30" as="geometry" />
+          <mxGeometry x="430" y="870" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mxdRoqQGDHFdoji6dl0M-10" value="网络通信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="210" width="100" height="30" as="geometry" />
+          <mxGeometry x="700" y="870" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mxdRoqQGDHFdoji6dl0M-11" value="界面交互" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="210" width="120" height="30" as="geometry" />
+          <mxGeometry x="870" y="870" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
