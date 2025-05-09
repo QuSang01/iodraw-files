@@ -947,7 +947,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-137" value="用户打开房间界面" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="513.5" y="2647.5" width="121" height="35" as="geometry" />
+          <mxGeometry x="514.5" y="2647.5" width="121" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BgOrAZEb03_k2tu5TxS3-138" target="BgOrAZEb03_k2tu5TxS3-139" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1023,7 +1023,7 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-155" value="禁用“加入”按钮" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="457" y="2929.5" width="121" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BgOrAZEb03_k2tu5TxS3-158" edge="1">
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BgOrAZEb03_k2tu5TxS3-158" edge="1" target="BgOrAZEb03_k2tu5TxS3-165">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="565" y="3027" as="targetPoint" />
           </mxGeometry>
@@ -1035,7 +1035,7 @@
           <mxGeometry x="295" y="2929.5" width="121" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-165" value="关闭对话框，进入房间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="415" y="3009.5" width="149" height="35" as="geometry" />
+          <mxGeometry x="601.5" y="3087.5" width="149" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-166" value="玩家选择网络模式" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1140" y="3130" width="121" height="35" as="geometry" />
