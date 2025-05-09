@@ -1106,6 +1106,9 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-195" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1489.5" y="3349" width="29" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="E-V0OU4n5urHA4BcgijH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-202" target="BgOrAZEb03_k2tu5TxS3-195">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-202" value="游戏进行中" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1443.75" y="3432" width="121" height="35" as="geometry" />
         </mxCell>
@@ -1123,7 +1126,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-207" value="发送加密消息到服务器" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1613" y="3597" width="145" height="35" as="geometry" />
+          <mxGeometry x="1431" y="3597" width="145" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.014;entryY=0.514;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="BgOrAZEb03_k2tu5TxS3-205" target="BgOrAZEb03_k2tu5TxS3-207" edge="1">
           <mxGeometry relative="1" as="geometry" />
