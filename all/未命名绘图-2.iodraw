@@ -1088,6 +1088,9 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="E-V0OU4n5urHA4BcgijH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-182" target="BgOrAZEb03_k2tu5TxS3-195">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-182" value="服务器接受密钥" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1440.5" y="3270" width="127.5" height="35" as="geometry" />
         </mxCell>
@@ -1104,7 +1107,7 @@
           <mxGeometry x="1486" y="3330.5" width="34" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-202" value="游戏进行中" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1305" y="3398" width="121" height="35" as="geometry" />
+          <mxGeometry x="1548.5" y="3396" width="121" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.496;entryY=0.057;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="BgOrAZEb03_k2tu5TxS3-193" target="BgOrAZEb03_k2tu5TxS3-202" edge="1">
           <mxGeometry relative="1" as="geometry" />
