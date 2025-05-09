@@ -278,10 +278,11 @@
         <mxCell id="fJt5VvOmacLmt09h5kdj-52" value="轮到下一家抢地主" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1951" y="270" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fJt5VvOmacLmt09h5kdj-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.944;entryY=0.467;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="fJt5VvOmacLmt09h5kdj-52" target="fJt5VvOmacLmt09h5kdj-31" edge="1">
+        <mxCell id="fJt5VvOmacLmt09h5kdj-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.944;entryY=0.467;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="fJt5VvOmacLmt09h5kdj-52" target="fJt5VvOmacLmt09h5kdj-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1860" y="90" />
+              <mxPoint x="-1889" y="270" />
+              <mxPoint x="-1889" y="90" />
               <mxPoint x="-2138" y="90" />
             </Array>
           </mxGeometry>
