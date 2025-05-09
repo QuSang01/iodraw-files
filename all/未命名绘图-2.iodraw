@@ -1204,6 +1204,11 @@
         <mxCell id="E-V0OU4n5urHA4BcgijH-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-235" target="BgOrAZEb03_k2tu5TxS3-237">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2203" y="3373" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2214" y="3331" />
+              <mxPoint x="2214" y="3333" />
+              <mxPoint x="2203" y="3333" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-235" value="游戏核心流程" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
