@@ -765,7 +765,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-72" value="玩家出牌" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1274" y="1900" width="76" height="35" as="geometry" />
+          <mxGeometry x="1274" y="1918" width="76" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BgOrAZEb03_k2tu5TxS3-73" target="BgOrAZEb03_k2tu5TxS3-74" edge="1">
           <mxGeometry relative="1" as="geometry" />
