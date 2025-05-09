@@ -1201,9 +1201,6 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-228" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2271" y="3260" width="30" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-241" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BgOrAZEb03_k2tu5TxS3-235" target="BgOrAZEb03_k2tu5TxS3-237" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-235" value="游戏核心流程" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2240" y="3310" width="91" height="35" as="geometry" />
         </mxCell>
