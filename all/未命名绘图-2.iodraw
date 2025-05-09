@@ -1004,10 +1004,8 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-148" value="发送网络请求" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="659" y="2843" width="121" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.436;exitY=0.914;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="BgOrAZEb03_k2tu5TxS3-151" target="BgOrAZEb03_k2tu5TxS3-153" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="782" y="3045" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="E-V0OU4n5urHA4BcgijH-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-151" target="BgOrAZEb03_k2tu5TxS3-153">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-151" value="服务器验证房间存在性" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="645" y="2911" width="149" height="35" as="geometry" />
@@ -1029,27 +1027,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-153" value="房间存在？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="657.5" y="3006" width="116" height="50" as="geometry" />
+          <mxGeometry x="661" y="2989" width="116" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BgOrAZEb03_k2tu5TxS3-155" target="BgOrAZEb03_k2tu5TxS3-160" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-155" value="禁用“加入”按钮" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="496.5" y="3013.5" width="121" height="35" as="geometry" />
+          <mxGeometry x="500" y="2996.5" width="121" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BgOrAZEb03_k2tu5TxS3-158" edge="1" target="BgOrAZEb03_k2tu5TxS3-165">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="604.5" y="3111" as="targetPoint" />
+            <mxPoint x="608" y="3094" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-158" value="启用“加入”按钮" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="654.5" y="3093.5" width="121" height="35" as="geometry" />
+          <mxGeometry x="658" y="3076.5" width="121" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-160" value="玩家无法加入房间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="496.5" y="3097" width="121" height="35" as="geometry" />
+          <mxGeometry x="500" y="3080" width="121" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-165" value="关闭对话框，进入房间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="641" y="3171.5" width="149" height="35" as="geometry" />
+          <mxGeometry x="644.5" y="3154.5" width="149" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-166" value="玩家选择网络模式" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1140" y="3130" width="121" height="35" as="geometry" />
