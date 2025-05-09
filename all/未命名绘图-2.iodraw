@@ -1141,8 +1141,10 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-213" value="启动游戏" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2090" y="2944" width="91" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BgOrAZEb03_k2tu5TxS3-214" target="BgOrAZEb03_k2tu5TxS3-216" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BgOrAZEb03_k2tu5TxS3-214" target="BgOrAZEb03_k2tu5TxS3-216" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2090" y="3148" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-214" value="登录/注册" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2095.5" y="3026" width="80" height="35" as="geometry" />
@@ -1209,7 +1211,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-237" value="显示胜负结果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="2102" y="3310" width="91" height="35" as="geometry" />
+          <mxGeometry x="2132" y="3381.5" width="91" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-244" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BgOrAZEb03_k2tu5TxS3-240" target="BgOrAZEb03_k2tu5TxS3-243" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1228,7 +1230,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-240" value="继续游戏？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1970" y="3302.5" width="92" height="50" as="geometry" />
+          <mxGeometry x="2000" y="3374" width="92" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-251" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="BgOrAZEb03_k2tu5TxS3-243" target="BgOrAZEb03_k2tu5TxS3-235" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1236,10 +1238,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-243" value="重置数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1976" y="3380" width="80" height="35" as="geometry" />
+          <mxGeometry x="2006" y="3451.5" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-245" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" parent="1" vertex="1">
-          <mxGeometry x="1890" y="3312.5" width="30" height="30" as="geometry" />
+          <mxGeometry x="1920" y="3384" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-255" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BgOrAZEb03_k2tu5TxS3-252" target="BgOrAZEb03_k2tu5TxS3-253" edge="1">
           <mxGeometry relative="1" as="geometry" />
