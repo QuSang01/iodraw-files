@@ -1032,7 +1032,7 @@
           <mxGeometry x="615" y="3009.5" width="121" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-160" value="玩家无法加入房间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="459.5" y="3014" width="121" height="35" as="geometry" />
+          <mxGeometry x="457" y="3013" width="121" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-165" value="关闭对话框，进入房间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="601.5" y="3087.5" width="149" height="35" as="geometry" />
