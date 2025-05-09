@@ -1207,8 +1207,11 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-235" value="游戏核心流程" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2240" y="3310" width="91" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-242" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BgOrAZEb03_k2tu5TxS3-237" target="BgOrAZEb03_k2tu5TxS3-240" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-242" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2130" y="3451" as="sourcePoint" />
+            <mxPoint x="2179" y="3499" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-237" value="显示胜负结果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2132" y="3381.5" width="91" height="35" as="geometry" />
@@ -1225,7 +1228,7 @@
             <mxPoint x="-2" y="-24" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-246" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BgOrAZEb03_k2tu5TxS3-240" target="BgOrAZEb03_k2tu5TxS3-245" edge="1">
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-246" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="BgOrAZEb03_k2tu5TxS3-240" target="BgOrAZEb03_k2tu5TxS3-245" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
@@ -1247,7 +1250,7 @@
           <mxGeometry x="2313" y="3384" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-245" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" parent="1" vertex="1">
-          <mxGeometry x="2162" y="3562" width="30" height="30" as="geometry" />
+          <mxGeometry x="2257" y="3548" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-255" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BgOrAZEb03_k2tu5TxS3-252" target="BgOrAZEb03_k2tu5TxS3-253" edge="1">
           <mxGeometry relative="1" as="geometry" />
