@@ -1097,6 +1097,9 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.498;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="BgOrAZEb03_k2tu5TxS3-178" target="BgOrAZEb03_k2tu5TxS3-182" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="E-V0OU4n5urHA4BcgijH-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-193" target="BgOrAZEb03_k2tu5TxS3-202">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-193" value="接受并处理服务器消息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1288" y="3344" width="159.5" height="35" as="geometry" />
         </mxCell>
