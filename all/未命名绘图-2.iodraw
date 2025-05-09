@@ -989,7 +989,11 @@
           <mxGeometry x="812.5" y="2662.5" width="88" height="35" as="geometry" />
         </mxCell>
         <mxCell id="E-V0OU4n5urHA4BcgijH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-142" target="BgOrAZEb03_k2tu5TxS3-148">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="857" y="2861" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-142" value="点击“加入”按钮" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="796" y="2765" width="121" height="35" as="geometry" />
@@ -1000,7 +1004,7 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-148" value="发送网络请求" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="659" y="2843" width="121" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="BgOrAZEb03_k2tu5TxS3-153" edge="1">
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.436;exitY=0.914;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="BgOrAZEb03_k2tu5TxS3-151" target="BgOrAZEb03_k2tu5TxS3-153" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="782" y="3045" as="sourcePoint" />
           </mxGeometry>
