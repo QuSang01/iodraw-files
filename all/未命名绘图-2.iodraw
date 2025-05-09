@@ -132,7 +132,7 @@
           <mxGeometry x="212" y="752.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XRWK7ijMtx_i0H21MT2i-37" value="游戏记录" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="321" y="760.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="318.25" y="752.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XRWK7ijMtx_i0H21MT2i-38" value="房间状态数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="419" y="760.5" width="76" height="30" as="geometry" />
