@@ -972,8 +972,9 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-138" value="是否为手动加入" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="610.5" y="2657" width="116" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BgOrAZEb03_k2tu5TxS3-139" target="BgOrAZEb03_k2tu5TxS3-148" edge="1">
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BgOrAZEb03_k2tu5TxS3-139" edge="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="649" y="2855" as="targetPoint" />
             <Array as="points">
               <mxPoint x="579" y="2867" />
             </Array>
