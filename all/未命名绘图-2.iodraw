@@ -1155,6 +1155,11 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BgOrAZEb03_k2tu5TxS3-216" target="BgOrAZEb03_k2tu5TxS3-221" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="E-V0OU4n5urHA4BcgijH-20" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BgOrAZEb03_k2tu5TxS3-222">
+          <mxGeometry x="-0.425" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-216" value="游戏模式" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2090" y="3122.5" width="92" height="50" as="geometry" />
         </mxCell>
@@ -1176,7 +1181,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-221" value="开始单机游戏" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="2090" y="3200" width="91" height="35" as="geometry" />
+          <mxGeometry x="2090" y="3212" width="91" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-230" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BgOrAZEb03_k2tu5TxS3-223" target="BgOrAZEb03_k2tu5TxS3-228" edge="1">
           <mxGeometry relative="1" as="geometry" />
