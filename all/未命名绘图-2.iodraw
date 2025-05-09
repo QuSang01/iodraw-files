@@ -1230,7 +1230,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-240" value="继续游戏？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1829" y="3368" width="92" height="50" as="geometry" />
+          <mxGeometry x="2000" y="3374" width="92" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-251" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="BgOrAZEb03_k2tu5TxS3-243" target="BgOrAZEb03_k2tu5TxS3-235" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1238,10 +1238,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-243" value="重置数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="2006" y="3451.5" width="80" height="35" as="geometry" />
+          <mxGeometry x="2245.5" y="3444" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-245" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" parent="1" vertex="1">
-          <mxGeometry x="1749" y="3378" width="30" height="30" as="geometry" />
+          <mxGeometry x="1920" y="3384" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-255" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BgOrAZEb03_k2tu5TxS3-252" target="BgOrAZEb03_k2tu5TxS3-253" edge="1">
           <mxGeometry relative="1" as="geometry" />
