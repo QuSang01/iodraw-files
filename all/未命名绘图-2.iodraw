@@ -950,7 +950,11 @@
           <mxGeometry x="608" y="2585" width="121" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BgOrAZEb03_k2tu5TxS3-138" target="BgOrAZEb03_k2tu5TxS3-139" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="577" y="2682" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-146" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BgOrAZEb03_k2tu5TxS3-140" vertex="1" connectable="0">
           <mxGeometry x="0.1059" y="-2" relative="1" as="geometry">
