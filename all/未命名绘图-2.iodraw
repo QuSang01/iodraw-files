@@ -1098,7 +1098,7 @@
           <mxGeometry x="1288" y="3358" width="159.5" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-195" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1491.5" y="3328" width="29" height="30" as="geometry" />
+          <mxGeometry x="1750.5" y="3291" width="29" height="25" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-202" value="游戏进行中" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1308" y="3428" width="121" height="35" as="geometry" />
