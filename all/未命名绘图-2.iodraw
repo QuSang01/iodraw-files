@@ -1131,6 +1131,9 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BgOrAZEb03_k2tu5TxS3-205" target="BgOrAZEb03_k2tu5TxS3-207" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Cxzo0ETJE-dzNWdezTbH-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-211" target="Cxzo0ETJE-dzNWdezTbH-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-211" value="服务器广播操作结果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1437.75" y="3629" width="133" height="35" as="geometry" />
         </mxCell>
@@ -1143,7 +1146,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-213" value="启动游戏" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="2090" y="2959" width="91" height="35" as="geometry" />
+          <mxGeometry x="2090" y="2980" width="91" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BgOrAZEb03_k2tu5TxS3-214" target="BgOrAZEb03_k2tu5TxS3-216" edge="1">
           <mxGeometry relative="1" as="geometry">
