@@ -760,7 +760,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-72" value="玩家出牌" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1274" y="1918" width="76" height="35" as="geometry" />
+          <mxGeometry x="2132" y="1838" width="76" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BgOrAZEb03_k2tu5TxS3-73" target="BgOrAZEb03_k2tu5TxS3-74" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -779,10 +779,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-73" value="牌型是否为炸弹" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1254" y="1980" width="116" height="50" as="geometry" />
+          <mxGeometry x="2112" y="1900" width="116" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-74" value="当前倍数*2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1274" y="2080" width="76" height="35" as="geometry" />
+          <mxGeometry x="2132" y="2000" width="76" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BgOrAZEb03_k2tu5TxS3-75" target="BgOrAZEb03_k2tu5TxS3-77" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -796,7 +796,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-75" value="玩家手牌是否为空" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1415" y="1980" width="130" height="50" as="geometry" />
+          <mxGeometry x="2273" y="1900" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BgOrAZEb03_k2tu5TxS3-76" target="BgOrAZEb03_k2tu5TxS3-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -805,50 +805,50 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-76" value="玩家是否是地主" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1579" y="1980" width="116" height="50" as="geometry" />
+          <mxGeometry x="2437" y="1900" width="116" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BgOrAZEb03_k2tu5TxS3-77" target="BgOrAZEb03_k2tu5TxS3-97" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-77" value="切换至下家玩家" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1423" y="2080" width="114" height="35" as="geometry" />
+          <mxGeometry x="2281" y="2000" width="114" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BgOrAZEb03_k2tu5TxS3-78" target="BgOrAZEb03_k2tu5TxS3-79" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-78" value="地主得分翻倍" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1587.5" y="2080" width="99" height="35" as="geometry" />
+          <mxGeometry x="2445.5" y="2000" width="99" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-79" value="农民扣除当前分数" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1575" y="2140" width="124" height="35" as="geometry" />
+          <mxGeometry x="2433" y="2060" width="124" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BgOrAZEb03_k2tu5TxS3-80" target="BgOrAZEb03_k2tu5TxS3-81" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-80" value="地主扣分翻倍" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1755" y="2080" width="114" height="35" as="geometry" />
+          <mxGeometry x="2613" y="2000" width="114" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BgOrAZEb03_k2tu5TxS3-81" target="BgOrAZEb03_k2tu5TxS3-82" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1813" y="2228" />
+              <mxPoint x="2671" y="2148" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-81" value="农民得分" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1757" y="2140" width="112" height="35" as="geometry" />
+          <mxGeometry x="2615" y="2060" width="112" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BgOrAZEb03_k2tu5TxS3-82" target="BgOrAZEb03_k2tu5TxS3-97" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-82" value="标记玩家胜利状态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1633" y="2210" width="137" height="35" as="geometry" />
+          <mxGeometry x="2491" y="2130" width="137" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Cxzo0ETJE-dzNWdezTbH-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-97" target="Cxzo0ETJE-dzNWdezTbH-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-97" value="更新玩家得分" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1411.5" y="2210" width="137" height="35" as="geometry" />
+          <mxGeometry x="2269.5" y="2130" width="137" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.569;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="BgOrAZEb03_k2tu5TxS3-79" target="BgOrAZEb03_k2tu5TxS3-82" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1712,10 +1712,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2_MQwJ4r6CXO6O_QG-hj-24" value="" style="ellipse;fillColor=strokeColor;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1297" y="1857" width="30" height="30" as="geometry" />
+          <mxGeometry x="2155" y="1777" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Cxzo0ETJE-dzNWdezTbH-1" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="2213" width="30" height="30" as="geometry" />
+          <mxGeometry x="2198" y="2133" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
