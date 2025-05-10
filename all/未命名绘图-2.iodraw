@@ -623,13 +623,8 @@
             <mxPoint x="1" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BgOrAZEb03_k2tu5TxS3-22" target="BgOrAZEb03_k2tu5TxS3-46" edge="1">
+        <mxCell id="2_MQwJ4r6CXO6O_QG-hj-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-22" target="BgOrAZEb03_k2tu5TxS3-46">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-57" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BgOrAZEb03_k2tu5TxS3-56" vertex="1" connectable="0">
-          <mxGeometry x="-0.1366" y="-2" relative="1" as="geometry">
-            <mxPoint x="1" y="1" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-22" value="是单一牌型？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="117.5" y="1705" width="105" height="45" as="geometry" />
@@ -653,24 +648,21 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-24" value="对手是否为敌对" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="393.5" y="1531.25" width="120" height="52.5" as="geometry" />
         </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BgOrAZEb03_k2tu5TxS3-28" target="BgOrAZEb03_k2tu5TxS3-46" edge="1">
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BgOrAZEb03_k2tu5TxS3-28" target="BgOrAZEb03_k2tu5TxS3-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-50" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BgOrAZEb03_k2tu5TxS3-47" vertex="1" connectable="0">
-          <mxGeometry x="-0.2102" y="-3" relative="1" as="geometry">
+        <mxCell id="2_MQwJ4r6CXO6O_QG-hj-18" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BgOrAZEb03_k2tu5TxS3-52">
+          <mxGeometry x="-0.2609" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BgOrAZEb03_k2tu5TxS3-28" target="BgOrAZEb03_k2tu5TxS3-48" edge="1">
+        <mxCell id="2_MQwJ4r6CXO6O_QG-hj-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-28" target="BgOrAZEb03_k2tu5TxS3-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-51" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BgOrAZEb03_k2tu5TxS3-49" vertex="1" connectable="0">
-          <mxGeometry x="-0.2121" y="4" relative="1" as="geometry">
-            <mxPoint x="-6" y="1" as="offset" />
+        <mxCell id="2_MQwJ4r6CXO6O_QG-hj-20" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2_MQwJ4r6CXO6O_QG-hj-19">
+          <mxGeometry x="-0.6268" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BgOrAZEb03_k2tu5TxS3-28" target="BgOrAZEb03_k2tu5TxS3-48" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-28" value="可压制？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="414" y="1638.75" width="80" height="40" as="geometry" />
@@ -681,11 +673,11 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-30" value="保留高价值牌型" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="1640" width="106" height="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="BgOrAZEb03_k2tu5TxS3-37" target="BgOrAZEb03_k2tu5TxS3-46" edge="1">
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BgOrAZEb03_k2tu5TxS3-37" target="BgOrAZEb03_k2tu5TxS3-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BgOrAZEb03_k2tu5TxS3-37" value="选择最小的单张/对子" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="265" y="1797.5" width="130" height="37.5" as="geometry" />
+        <mxCell id="BgOrAZEb03_k2tu5TxS3-37" value="选择最小的&lt;div&gt;单张/对子&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="265" y="1797.5" width="83" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BgOrAZEb03_k2tu5TxS3-40" target="BgOrAZEb03_k2tu5TxS3-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -709,11 +701,14 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-43" value="出顺子" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="135" y="1890" width="70" height="37.5" as="geometry" />
         </mxCell>
+        <mxCell id="2_MQwJ4r6CXO6O_QG-hj-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-46" target="2_MQwJ4r6CXO6O_QG-hj-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-46" value="直接出牌" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="1708.75" width="60" height="37.5" as="geometry" />
+          <mxGeometry x="423.5" y="1797.5" width="60" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-48" value="放弃出牌" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="419" y="1730" width="70" height="37.5" as="geometry" />
+          <mxGeometry x="287" y="1640" width="70" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-59" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="760" y="1820" width="30" height="60" as="geometry" />
@@ -1045,6 +1040,9 @@
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-160" value="玩家无法加入房间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="500" y="3080" width="121" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="2_MQwJ4r6CXO6O_QG-hj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-165" target="2_MQwJ4r6CXO6O_QG-hj-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-165" value="关闭对话框，进入房间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="644" y="3149" width="149" height="35" as="geometry" />
@@ -1696,7 +1694,16 @@
           <mxGeometry x="653.5" y="2518" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2_MQwJ4r6CXO6O_QG-hj-12" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
-          <mxGeometry x="690" y="3224" width="30" height="30" as="geometry" />
+          <mxGeometry x="703.5" y="3222" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2_MQwJ4r6CXO6O_QG-hj-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2_MQwJ4r6CXO6O_QG-hj-14" target="BgOrAZEb03_k2tu5TxS3-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_MQwJ4r6CXO6O_QG-hj-14" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
+          <mxGeometry x="282" y="1397" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2_MQwJ4r6CXO6O_QG-hj-21" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="548" y="1801.25" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
