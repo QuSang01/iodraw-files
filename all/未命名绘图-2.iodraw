@@ -1361,6 +1361,9 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-274" value="加密存储" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2132.25" y="2745" width="85.5" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="2_MQwJ4r6CXO6O_QG-hj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-276" target="2_MQwJ4r6CXO6O_QG-hj-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-276" value="进入游戏界面" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2269" y="2745" width="101" height="35" as="geometry" />
         </mxCell>
@@ -1663,7 +1666,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2_MQwJ4r6CXO6O_QG-hj-1" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1872" y="2530" width="30" height="30" as="geometry" />
+          <mxGeometry x="2019" y="2452" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2_MQwJ4r6CXO6O_QG-hj-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.57;entryY=0.057;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2_MQwJ4r6CXO6O_QG-hj-1" target="BgOrAZEb03_k2tu5TxS3-252">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_MQwJ4r6CXO6O_QG-hj-3" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="2425" y="2748" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
