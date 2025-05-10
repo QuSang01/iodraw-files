@@ -938,6 +938,9 @@
         <mxCell id="BgOrAZEb03_k2tu5TxS3-131" value="清空玩家手牌显示" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1525" y="2530" width="115" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="Cxzo0ETJE-dzNWdezTbH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BgOrAZEb03_k2tu5TxS3-132" target="Cxzo0ETJE-dzNWdezTbH-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-132" value="重置倍数" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1684" y="2530" width="89" height="35" as="geometry" />
         </mxCell>
@@ -1717,8 +1720,14 @@
         <mxCell id="Cxzo0ETJE-dzNWdezTbH-1" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
           <mxGeometry x="2198" y="2133" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Cxzo0ETJE-dzNWdezTbH-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cxzo0ETJE-dzNWdezTbH-3" target="BgOrAZEb03_k2tu5TxS3-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Cxzo0ETJE-dzNWdezTbH-3" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
           <mxGeometry x="1271" y="2329" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cxzo0ETJE-dzNWdezTbH-6" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="1829" y="2533" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
