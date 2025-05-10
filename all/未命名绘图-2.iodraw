@@ -1712,7 +1712,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2_MQwJ4r6CXO6O_QG-hj-24" value="" style="ellipse;fillColor=strokeColor;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2042" y="1838" width="30" height="30" as="geometry" />
+          <mxGeometry x="2041" y="1840.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Cxzo0ETJE-dzNWdezTbH-1" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
           <mxGeometry x="2198" y="2133" width="30" height="30" as="geometry" />
