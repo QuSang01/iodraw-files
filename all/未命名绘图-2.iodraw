@@ -1146,7 +1146,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-213" value="启动游戏" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="2090" y="2980" width="91" height="35" as="geometry" />
+          <mxGeometry x="2090" y="2992" width="91" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BgOrAZEb03_k2tu5TxS3-214" target="BgOrAZEb03_k2tu5TxS3-216" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1154,7 +1154,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-214" value="登录/注册" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="2095.5" y="3045" width="80" height="35" as="geometry" />
+          <mxGeometry x="2095.5" y="3060" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BgOrAZEb03_k2tu5TxS3-219" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BgOrAZEb03_k2tu5TxS3-216" target="BgOrAZEb03_k2tu5TxS3-218" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1740,6 +1740,9 @@
         </mxCell>
         <mxCell id="Cxzo0ETJE-dzNWdezTbH-10" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
           <mxGeometry x="1489" y="3693" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cxzo0ETJE-dzNWdezTbH-12" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="3347" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
