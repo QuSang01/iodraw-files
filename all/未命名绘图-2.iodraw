@@ -1662,6 +1662,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="2_MQwJ4r6CXO6O_QG-hj-1" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1872" y="2530" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
