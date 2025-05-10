@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="E-SvW3CsPLO9WLYHRWfh" name="第 1 页">
-    <mxGraphModel dx="2872" dy="992" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2392" dy="1115" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -238,10 +238,10 @@
         <mxCell id="fJt5VvOmacLmt09h5kdj-34" value="跳过记录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1035" y="298" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fJt5VvOmacLmt09h5kdj-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fJt5VvOmacLmt09h5kdj-35" target="fJt5VvOmacLmt09h5kdj-68" edge="1">
+        <mxCell id="0uTpDgy72Fxn9p6OE0IV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fJt5VvOmacLmt09h5kdj-35" target="fJt5VvOmacLmt09h5kdj-68">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1308" y="705" />
+              <mxPoint x="-1310" y="683" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -297,7 +297,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-60" value="最高分玩家成为地主" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1209.25" y="616" width="120" height="30" as="geometry" />
+          <mxGeometry x="-1209.25" y="598" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-63" value="重新发牌" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1015" y="513" width="120" height="30" as="geometry" />
@@ -308,8 +308,11 @@
         <mxCell id="fJt5VvOmacLmt09h5kdj-67" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1098" y="506" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="0uTpDgy72Fxn9p6OE0IV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fJt5VvOmacLmt09h5kdj-68" target="0uTpDgy72Fxn9p6OE0IV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-68" value="进入出牌阶段" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1194.25" y="690" width="90" height="30" as="geometry" />
+          <mxGeometry x="-1194.25" y="668" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mxdRoqQGDHFdoji6dl0M-6" value="联网斗地主游戏" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="788" width="140" height="40" as="geometry" />
@@ -374,6 +377,15 @@
               <mxPoint x="320" y="925" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0uTpDgy72Fxn9p6OE0IV-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0uTpDgy72Fxn9p6OE0IV-1" target="fJt5VvOmacLmt09h5kdj-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0uTpDgy72Fxn9p6OE0IV-1" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1164" y="72" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0uTpDgy72Fxn9p6OE0IV-3" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="-1164" y="755" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
