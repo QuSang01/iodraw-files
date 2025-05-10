@@ -1672,7 +1672,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2_MQwJ4r6CXO6O_QG-hj-3" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
-          <mxGeometry x="2425" y="2748" width="30" height="30" as="geometry" />
+          <mxGeometry x="2416.5" y="2747.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2_MQwJ4r6CXO6O_QG-hj-5" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2691" y="2475" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
