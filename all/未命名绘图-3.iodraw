@@ -16,7 +16,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-55" y="150" />
-              <mxPoint x="-555" y="150" />
+              <mxPoint x="-463" y="150" />
+              <mxPoint x="-463" y="213" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -49,7 +50,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f8evoeEWkDN1di3kP39O-2" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-640" y="200" width="104" height="30" as="geometry" />
+          <mxGeometry x="-607" y="198" width="104" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f8evoeEWkDN1di3kP39O-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="f8evoeEWkDN1di3kP39O-4" target="f8evoeEWkDN1di3kP39O-13" edge="1">
           <mxGeometry relative="1" as="geometry">
