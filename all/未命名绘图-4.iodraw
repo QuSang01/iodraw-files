@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-145" y="150" />
-              <mxPoint x="-493" y="150" />
+              <mxPoint x="-478" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -62,13 +62,13 @@
         <mxCell id="f8evoeEWkDN1di3kP39O-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=0;" parent="1" source="f8evoeEWkDN1di3kP39O-2" target="f8evoeEWkDN1di3kP39O-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-491" y="258" />
+              <mxPoint x="-478" y="258" />
               <mxPoint x="-447" y="258" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="f8evoeEWkDN1di3kP39O-2" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-540" y="198" width="98" height="30" as="geometry" />
+          <mxGeometry x="-527" y="198" width="98" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f8evoeEWkDN1di3kP39O-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=0;" parent="1" source="f8evoeEWkDN1di3kP39O-4" target="f8evoeEWkDN1di3kP39O-13" edge="1">
           <mxGeometry relative="1" as="geometry">
