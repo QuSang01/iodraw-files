@@ -141,10 +141,10 @@
         <mxCell id="f8evoeEWkDN1di3kP39O-5" value="游戏逻辑" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-189.5" y="198" width="89" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f8evoeEWkDN1di3kP39O-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="f8evoeEWkDN1di3kP39O-6" target="f8evoeEWkDN1di3kP39O-23" edge="1">
+        <mxCell id="f8evoeEWkDN1di3kP39O-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=0;" parent="1" source="f8evoeEWkDN1di3kP39O-6" target="f8evoeEWkDN1di3kP39O-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f8evoeEWkDN1di3kP39O-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="f8evoeEWkDN1di3kP39O-6" target="f8evoeEWkDN1di3kP39O-24" edge="1">
+        <mxCell id="f8evoeEWkDN1di3kP39O-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=0;" parent="1" source="f8evoeEWkDN1di3kP39O-6" target="f8evoeEWkDN1di3kP39O-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f8evoeEWkDN1di3kP39O-6" value="网络通信" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
