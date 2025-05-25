@@ -413,9 +413,6 @@
         <mxCell id="oXLSMPSpewGAaJYerUgp-3" value="用户注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="533" y="682" width="82" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oXLSMPSpewGAaJYerUgp-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.8;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="f8evoeEWkDN1di3kP39O-15" target="f8evoeEWkDN1di3kP39O-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
