@@ -31,15 +31,15 @@
         <mxCell id="f8evoeEWkDN1di3kP39O-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=0;" parent="1" source="f8evoeEWkDN1di3kP39O-1" target="f8evoeEWkDN1di3kP39O-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-145" y="126" />
-              <mxPoint x="-145" y="126" />
+              <mxPoint x="-135" y="152" />
+              <mxPoint x="-145" y="152" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="f8evoeEWkDN1di3kP39O-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=0;" parent="1" source="f8evoeEWkDN1di3kP39O-1" target="f8evoeEWkDN1di3kP39O-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-145" y="150" />
+              <mxPoint x="-154" y="150" />
               <mxPoint x="9" y="150" />
             </Array>
           </mxGeometry>
