@@ -9,6 +9,7 @@
             <Array as="points">
               <mxPoint x="-145" y="150" />
               <mxPoint x="-325" y="150" />
+              <mxPoint x="-325" y="198" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -72,7 +73,7 @@
         <mxCell id="f8evoeEWkDN1di3kP39O-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=0;" parent="1" source="f8evoeEWkDN1di3kP39O-4" target="f8evoeEWkDN1di3kP39O-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-325" y="258" />
+              <mxPoint x="-321" y="258" />
               <mxPoint x="-387" y="258" />
             </Array>
           </mxGeometry>
@@ -102,7 +103,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="f8evoeEWkDN1di3kP39O-4" value="房间管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-365.5" y="198" width="81" height="30" as="geometry" />
+          <mxGeometry x="-361" y="198" width="81" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f8evoeEWkDN1di3kP39O-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=0;" parent="1" source="f8evoeEWkDN1di3kP39O-5" target="f8evoeEWkDN1di3kP39O-17" edge="1">
           <mxGeometry relative="1" as="geometry">
