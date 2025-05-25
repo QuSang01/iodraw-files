@@ -388,7 +388,10 @@
           <mxGeometry x="-1164.25" y="730" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oXLSMPSpewGAaJYerUgp-2" value="用户登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="534" y="645" width="82" height="30" as="geometry" />
+          <mxGeometry x="533" y="636" width="82" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oXLSMPSpewGAaJYerUgp-3" value="用户登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="533" y="682" width="82" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
