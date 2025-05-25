@@ -99,21 +99,19 @@
         <mxCell id="f8evoeEWkDN1di3kP39O-4" value="房间管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-374" y="198" width="96" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f8evoeEWkDN1di3kP39O-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+        <mxCell id="f8evoeEWkDN1di3kP39O-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="f8evoeEWkDN1di3kP39O-5" target="f8evoeEWkDN1di3kP39O-17" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-152.5" y="225" as="sourcePoint" />
-            <mxPoint x="-202.5" y="298" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-152.5" y="254" />
-              <mxPoint x="-202.5" y="254" />
+              <mxPoint x="-145" y="257" />
+              <mxPoint x="-195" y="257" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="f8evoeEWkDN1di3kP39O-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="f8evoeEWkDN1di3kP39O-5" target="f8evoeEWkDN1di3kP39O-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-145" y="258" />
-              <mxPoint x="-152" y="258" />
+              <mxPoint x="-145" y="256" />
+              <mxPoint x="-152" y="256" />
             </Array>
           </mxGeometry>
         </mxCell>
