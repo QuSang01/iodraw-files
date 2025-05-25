@@ -154,7 +154,7 @@
           <mxGeometry x="-265" y="353" width="30" height="200" as="geometry" />
         </mxCell>
         <mxCell id="f8evoeEWkDN1di3kP39O-17" value="叫地主/抢地主" style="rounded=0;html=1;fontSize=12;whiteSpace=wrap;horizontal=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-215" y="350" width="30" height="200" as="geometry" />
+          <mxGeometry x="-213" y="353" width="30" height="200" as="geometry" />
         </mxCell>
         <mxCell id="f8evoeEWkDN1di3kP39O-18" value="发牌与出牌逻辑" style="rounded=0;html=1;fontSize=12;whiteSpace=wrap;horizontal=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="-167.5" y="350" width="30" height="200" as="geometry" />
@@ -235,7 +235,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-2" value="发牌结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1194.25" y="138" width="90" height="30" as="geometry" />
+          <mxGeometry x="-1156.25" y="783" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fJt5VvOmacLmt09h5kdj-31" target="fJt5VvOmacLmt09h5kdj-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -247,35 +247,35 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-31" value="当前玩家下注" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1198" y="198" width="97.5" height="60" as="geometry" />
+          <mxGeometry x="-1160" y="843" width="97.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fJt5VvOmacLmt09h5kdj-33" target="fJt5VvOmacLmt09h5kdj-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-33" value="更新最高分和玩家" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1209.25" y="298" width="120" height="30" as="geometry" />
+          <mxGeometry x="-1171.25" y="943" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-34" value="跳过记录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1035" y="298" width="120" height="30" as="geometry" />
+          <mxGeometry x="-997" y="943" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0uTpDgy72Fxn9p6OE0IV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fJt5VvOmacLmt09h5kdj-35" target="fJt5VvOmacLmt09h5kdj-68" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1310" y="683" />
+              <mxPoint x="-1272" y="1328" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-35" value="直接成为地主" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1368" y="298" width="120" height="30" as="geometry" />
+          <mxGeometry x="-1330" y="943" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-39" value="下注 ≤ 当前最高分" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-978" y="248" width="120" height="30" as="geometry" />
+          <mxGeometry x="-940" y="893" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-41" value="下注 ≥ 当前最高分" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1163" y="258" width="120" height="30" as="geometry" />
+          <mxGeometry x="-1125" y="903" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-42" value="下注=3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1269.25" y="208" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1231.25" y="853" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fJt5VvOmacLmt09h5kdj-46" target="fJt5VvOmacLmt09h5kdj-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -284,7 +284,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-46" value="是否已轮完3家" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1204.25" y="368" width="110" height="70" as="geometry" />
+          <mxGeometry x="-1166.25" y="1013" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="fJt5VvOmacLmt09h5kdj-48" target="fJt5VvOmacLmt09h5kdj-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -293,46 +293,46 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-48" value="最高分 &amp;gt; 0" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1198" y="498" width="97.5" height="60" as="geometry" />
+          <mxGeometry x="-1160" y="1143" width="97.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-52" value="轮到下一家抢地主" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-919" y="388" width="120" height="30" as="geometry" />
+          <mxGeometry x="-881" y="1033" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.944;entryY=0.467;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="fJt5VvOmacLmt09h5kdj-52" target="fJt5VvOmacLmt09h5kdj-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-857" y="388" />
-              <mxPoint x="-857" y="208" />
-              <mxPoint x="-1106" y="208" />
+              <mxPoint x="-819" y="1033" />
+              <mxPoint x="-819" y="853" />
+              <mxPoint x="-1068" y="853" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-57" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1055" y="376" width="40" height="30" as="geometry" />
+          <mxGeometry x="-1017" y="1021" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-58" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1178" y="438" width="40" height="30" as="geometry" />
+          <mxGeometry x="-1140" y="1083" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fJt5VvOmacLmt09h5kdj-60" target="fJt5VvOmacLmt09h5kdj-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-60" value="最高分玩家成为地主" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1209.25" y="598" width="120" height="30" as="geometry" />
+          <mxGeometry x="-1171.25" y="1243" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-63" value="重新发牌" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1015" y="513" width="120" height="30" as="geometry" />
+          <mxGeometry x="-977" y="1158" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-66" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1178" y="568" width="40" height="30" as="geometry" />
+          <mxGeometry x="-1140" y="1213" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-67" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1098" y="506" width="40" height="30" as="geometry" />
+          <mxGeometry x="-1060" y="1151" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0uTpDgy72Fxn9p6OE0IV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fJt5VvOmacLmt09h5kdj-68" target="0uTpDgy72Fxn9p6OE0IV-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fJt5VvOmacLmt09h5kdj-68" value="进入出牌阶段" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1194.25" y="668" width="90" height="30" as="geometry" />
+          <mxGeometry x="-1156.25" y="1313" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mxdRoqQGDHFdoji6dl0M-6" value="联网斗地主游戏" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="788" width="140" height="40" as="geometry" />
@@ -402,10 +402,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0uTpDgy72Fxn9p6OE0IV-1" value="" style="ellipse;fillColor=strokeColor;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1164" y="72" width="30" height="30" as="geometry" />
+          <mxGeometry x="-1126" y="717" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0uTpDgy72Fxn9p6OE0IV-3" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" parent="1" vertex="1">
-          <mxGeometry x="-1164.25" y="730" width="30" height="30" as="geometry" />
+          <mxGeometry x="-1126.25" y="1375" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oXLSMPSpewGAaJYerUgp-2" value="用户登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="533" y="636" width="82" height="30" as="geometry" />
