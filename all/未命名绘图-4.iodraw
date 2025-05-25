@@ -160,7 +160,7 @@
           <mxGeometry x="-167.5" y="301" width="30" height="200" as="geometry" />
         </mxCell>
         <mxCell id="f8evoeEWkDN1di3kP39O-19" value="计分与结算" style="rounded=0;html=1;fontSize=12;whiteSpace=wrap;horizontal=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="350" width="30" height="200" as="geometry" />
+          <mxGeometry x="-124" y="301" width="30" height="200" as="geometry" />
         </mxCell>
         <mxCell id="f8evoeEWkDN1di3kP39O-20" value="游戏重置" style="rounded=0;html=1;fontSize=12;whiteSpace=wrap;horizontal=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="30" y="350" width="30" height="200" as="geometry" />
