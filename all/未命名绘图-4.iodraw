@@ -131,7 +131,7 @@
           <mxGeometry x="-300" y="350" width="30" height="200" as="geometry" />
         </mxCell>
         <mxCell id="f8evoeEWkDN1di3kP39O-16" value="房间搜索" style="rounded=0;html=1;fontSize=12;whiteSpace=wrap;horizontal=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-230" y="350" width="30" height="200" as="geometry" />
+          <mxGeometry x="-250" y="350" width="30" height="200" as="geometry" />
         </mxCell>
         <mxCell id="f8evoeEWkDN1di3kP39O-17" value="叫地主/抢地主" style="rounded=0;html=1;fontSize=12;whiteSpace=wrap;horizontal=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="-160" y="350" width="30" height="200" as="geometry" />
@@ -390,7 +390,7 @@
         <mxCell id="oXLSMPSpewGAaJYerUgp-2" value="用户登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="533" y="636" width="82" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oXLSMPSpewGAaJYerUgp-3" value="用户登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oXLSMPSpewGAaJYerUgp-3" value="用户注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="533" y="682" width="82" height="30" as="geometry" />
         </mxCell>
       </root>
