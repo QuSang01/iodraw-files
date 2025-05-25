@@ -64,7 +64,7 @@
         <mxCell id="f8evoeEWkDN1di3kP39O-2" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-540" y="198" width="98" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f8evoeEWkDN1di3kP39O-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="f8evoeEWkDN1di3kP39O-4" target="f8evoeEWkDN1di3kP39O-13" edge="1">
+        <mxCell id="f8evoeEWkDN1di3kP39O-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=1;" parent="1" source="f8evoeEWkDN1di3kP39O-4" target="f8evoeEWkDN1di3kP39O-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-325" y="258" />
@@ -151,7 +151,7 @@
           <mxGeometry x="-310" y="301" width="30" height="200" as="geometry" />
         </mxCell>
         <mxCell id="f8evoeEWkDN1di3kP39O-16" value="房间搜索" style="rounded=0;html=1;fontSize=12;whiteSpace=wrap;horizontal=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-265" y="303" width="30" height="200" as="geometry" />
+          <mxGeometry x="-265" y="301" width="30" height="200" as="geometry" />
         </mxCell>
         <mxCell id="f8evoeEWkDN1di3kP39O-17" value="叫地主/抢地主" style="rounded=0;html=1;fontSize=12;whiteSpace=wrap;horizontal=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="-213" y="353" width="30" height="200" as="geometry" />
