@@ -52,7 +52,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-491" y="258" />
-              <mxPoint x="-539" y="258" />
+              <mxPoint x="-522" y="258" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -174,7 +174,7 @@
           <mxGeometry x="84" y="198" width="77" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f8evoeEWkDN1di3kP39O-9" value="用户注册" style="rounded=0;html=1;fontSize=12;whiteSpace=wrap;horizontal=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-553" y="301" width="30" height="200" as="geometry" />
+          <mxGeometry x="-537" y="301" width="30" height="200" as="geometry" />
         </mxCell>
         <mxCell id="f8evoeEWkDN1di3kP39O-11" value="用户登录" style="rounded=0;html=1;fontSize=12;whiteSpace=wrap;horizontal=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="-493" y="301" width="30" height="200" as="geometry" />
