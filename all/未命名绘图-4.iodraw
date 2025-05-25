@@ -7,7 +7,7 @@
         <mxCell id="f8evoeEWkDN1di3kP39O-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endSize=0;" parent="1" source="f8evoeEWkDN1di3kP39O-1" target="f8evoeEWkDN1di3kP39O-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-55" y="150" />
+              <mxPoint x="-111" y="150" />
               <mxPoint x="-325" y="150" />
             </Array>
           </mxGeometry>
@@ -45,7 +45,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="f8evoeEWkDN1di3kP39O-1" value="联网斗地主游戏" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-202.5" y="51" width="176" height="40" as="geometry" />
+          <mxGeometry x="-235" y="48" width="176" height="40" as="geometry" />
         </mxCell>
         <mxCell id="f8evoeEWkDN1di3kP39O-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=0;" parent="1" source="f8evoeEWkDN1di3kP39O-2" target="f8evoeEWkDN1di3kP39O-9" edge="1">
           <mxGeometry relative="1" as="geometry">
