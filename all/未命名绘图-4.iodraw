@@ -332,7 +332,7 @@
         <mxCell id="mxdRoqQGDHFdoji6dl0M-11" value="界面交互模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="910" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mxdRoqQGDHFdoji6dl0M-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endSize=2;" parent="1" source="mxdRoqQGDHFdoji6dl0M-6" target="mxdRoqQGDHFdoji6dl0M-7" edge="1">
+        <mxCell id="mxdRoqQGDHFdoji6dl0M-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endSize=0;" parent="1" source="mxdRoqQGDHFdoji6dl0M-6" target="mxdRoqQGDHFdoji6dl0M-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="820" as="sourcePoint" />
             <mxPoint x="350" y="640" as="targetPoint" />
@@ -342,7 +342,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mxdRoqQGDHFdoji6dl0M-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="mxdRoqQGDHFdoji6dl0M-6" target="mxdRoqQGDHFdoji6dl0M-8" edge="1">
+        <mxCell id="mxdRoqQGDHFdoji6dl0M-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endSize=0;" parent="1" source="mxdRoqQGDHFdoji6dl0M-6" target="mxdRoqQGDHFdoji6dl0M-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="690" as="sourcePoint" />
             <mxPoint x="350" y="640" as="targetPoint" />
